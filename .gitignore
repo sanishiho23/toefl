@@ -1,0 +1,29 @@
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Scratch / personal notes (never commit these)
+scratch/
+private/
+*.local.md
+
+# Python (generator tooling)
+__pycache__/
+*.pyc
+.venv/
+
+# Node (if you add a dashboard later)
+node_modules/
+
+# Large media
+*.mp3
+*.mp4
+*.wav
+*.zip
+*.pdf
