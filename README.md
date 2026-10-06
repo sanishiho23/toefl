@@ -31,14 +31,14 @@
 
 Structure & Written Expression (priority)
 
-- [ ] [S01 — Subject-verb agreement and word order](<./docs/study-notes/[06-Oct] S01 - Subject-Verb Agreement.md>)
-- [ ] [S02 — Verb tenses and time markers](<./docs/study-notes/[07-Oct] S02 - Verb Tenses and Time Markers.md>)
-- [ ] [S03 — Participles, gerunds and infinitives](<./docs/study-notes/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>)
-- [ ] [S04 — Noun clauses and reported speech](<./docs/study-notes/[12-Oct] S04 - Noun Clauses and Reported Speech.md>)
-- [ ] [S05 — Adjective clauses and reductions](<./docs/study-notes/[13-Oct] S05 - Adjective Clauses and Reductions.md>)
-- [ ] [S06 — Adverb clauses and conditionals](<./docs/study-notes/[14-Oct] S06 - Adverb Clauses and Conditionals.md>)
-- [ ] [S07 — Inversion, comparatives and parallelism](<./docs/study-notes/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>)
-- [ ] [S08 — Word forms, articles and prepositions](<./docs/study-notes/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>)
+- [ ] [S01 — Subject-verb agreement and word order](<./docs/study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>)
+- [ ] [S02 — Verb tenses and time markers](<./docs/study-notes/structure/[07-Oct] S02 - Verb Tenses and Time Markers.md>)
+- [ ] [S03 — Participles, gerunds and infinitives](<./docs/study-notes/structure/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>)
+- [ ] [S04 — Noun clauses and reported speech](<./docs/study-notes/structure/[12-Oct] S04 - Noun Clauses and Reported Speech.md>)
+- [ ] [S05 — Adjective clauses and reductions](<./docs/study-notes/structure/[13-Oct] S05 - Adjective Clauses and Reductions.md>)
+- [ ] [S06 — Adverb clauses and conditionals](<./docs/study-notes/structure/[14-Oct] S06 - Adverb Clauses and Conditionals.md>)
+- [ ] [S07 — Inversion, comparatives and parallelism](<./docs/study-notes/structure/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>)
+- [ ] [S08 — Word forms, articles and prepositions](<./docs/study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>)
 
 Listening
 

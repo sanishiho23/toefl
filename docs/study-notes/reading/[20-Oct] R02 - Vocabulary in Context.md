@@ -93,7 +93,7 @@ Own word: *weak / thin*. → **B**. (All four could describe an argument.)
 
 ## Part 5 — Word attack: suffixes
 
-See the full table in [S08](<../[16-Oct] S08 - Word Forms, Articles and Prepositions.md>) § 1 and
+See the full table in [S08](<../structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>) § 1 and
 [Word Families](<../vocabulary/[16-Oct] Word Families.md>).
 
 ---

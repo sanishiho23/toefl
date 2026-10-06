@@ -12,7 +12,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 ## D8
 **Mon 12 Oct · S04 — Noun clauses & reported speech** · 100 min
 
-- **Material:** [S04   Noun Clauses and Reported Speech](<../study-notes/[12-Oct] S04 - Noun Clauses and Reported Speech.md>)
+- **Material:** [S04   Noun Clauses and Reported Speech](<../study-notes/structure/[12-Oct] S04 - Noun Clauses and Reported Speech.md>)
 - **Log:** `docs/logs/daily/week-01/12-10-2026.md`
 
 | Block | Min | Task |
@@ -34,7 +34,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 ## D9
 **Tue 13 Oct · S05 — Adjective clauses & reductions** · 100 min
 
-- **Material:** [S05   Adjective Clauses and Reductions](<../study-notes/[13-Oct] S05 - Adjective Clauses and Reductions.md>)
+- **Material:** [S05   Adjective Clauses and Reductions](<../study-notes/structure/[13-Oct] S05 - Adjective Clauses and Reductions.md>)
 - **Log:** `docs/logs/daily/week-01/13-10-2026.md`
 
 | Block | Min | Task |
@@ -56,7 +56,7 @@ no reduction possible if the clause has a modal or perfect verb.
 ## D10
 **Wed 14 Oct · S06 — Adverb clauses, conjunctions, conditionals** · 100 min
 
-- **Material:** [S06   Adverb Clauses and Conditionals](<../study-notes/[14-Oct] S06 - Adverb Clauses and Conditionals.md>)
+- **Material:** [S06   Adverb Clauses and Conditionals](<../study-notes/structure/[14-Oct] S06 - Adverb Clauses and Conditionals.md>)
 - **Log:** `docs/logs/daily/week-01/14-10-2026.md`
 
 | Block | Min | Task |
@@ -78,7 +78,7 @@ no reduction possible if the clause has a modal or perfect verb.
 ## D11
 **Thu 15 Oct · S07 — Inversion, comparatives, parallelism** · 100 min
 
-- **Material:** [S07   Inversion, Comparatives and Parallelism](<../study-notes/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>)
+- **Material:** [S07   Inversion, Comparatives and Parallelism](<../study-notes/structure/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>)
 - **Log:** `docs/logs/daily/week-01/15-10-2026.md`
 
 | Block | Min | Task |
@@ -100,7 +100,7 @@ no reduction possible if the clause has a modal or perfect verb.
 ## D12
 **Fri 16 Oct · S08 — Word forms, articles, prepositions, pronouns** ⭐ *the big one* · 110 min
 
-- **Material:** [S08   Word Forms, Articles and Prepositions](<../study-notes/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>)
+- **Material:** [S08   Word Forms, Articles and Prepositions](<../study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>)
   + [Word Families](<../study-notes/vocabulary/[16-Oct] Word Families.md>)
 - **Log:** `docs/logs/daily/week-01/16-10-2026.md`
 

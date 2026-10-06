@@ -55,9 +55,9 @@ A recorded baseline and three grammar rules at 80% accuracy or better.
 ### Deliverables
 
 - [ ] [Diagnostic test scored](<hands-on/[05-Oct] Diagnostic Test.md>) **[Deadline: Oct 5]**
-- [ ] [S01 — Subject-Verb Agreement](<study-notes/[06-Oct] S01 - Subject-Verb Agreement.md>) **[Deadline: Oct 6]**
-- [ ] [S02 — Verb Tenses](<study-notes/[07-Oct] S02 - Verb Tenses and Time Markers.md>) **[Deadline: Oct 7]**
-- [ ] [S03 — Participles, Gerunds, Infinitives](<study-notes/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>) **[Deadline: Oct 9]**
+- [ ] [S01 — Subject-Verb Agreement](<study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>) **[Deadline: Oct 6]**
+- [ ] [S02 — Verb Tenses](<study-notes/structure/[07-Oct] S02 - Verb Tenses and Time Markers.md>) **[Deadline: Oct 7]**
+- [ ] [S03 — Participles, Gerunds, Infinitives](<study-notes/structure/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>) **[Deadline: Oct 9]**
 - [ ] [Weekly report 0](<logs/weekly/2026-10-05-to-2026-10-11.md>) **[Deadline: Oct 11]**
 
 ---
@@ -89,11 +89,11 @@ Finish the grammar code so that any Section 2 item can be named in about five se
 
 ### Deliverables
 
-- [ ] [S04 — Noun Clauses](<study-notes/[12-Oct] S04 - Noun Clauses and Reported Speech.md>) **[Deadline: Oct 12]**
-- [ ] [S05 — Adjective Clauses](<study-notes/[13-Oct] S05 - Adjective Clauses and Reductions.md>) **[Deadline: Oct 13]**
-- [ ] [S06 — Adverb Clauses & Conditionals](<study-notes/[14-Oct] S06 - Adverb Clauses and Conditionals.md>) **[Deadline: Oct 14]**
-- [ ] [S07 — Inversion, Comparatives, Parallelism](<study-notes/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>) **[Deadline: Oct 15]**
-- [ ] [S08 — Word Forms, Articles, Prepositions](<study-notes/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>) **[Deadline: Oct 16]**
+- [ ] [S04 — Noun Clauses](<study-notes/structure/[12-Oct] S04 - Noun Clauses and Reported Speech.md>) **[Deadline: Oct 12]**
+- [ ] [S05 — Adjective Clauses](<study-notes/structure/[13-Oct] S05 - Adjective Clauses and Reductions.md>) **[Deadline: Oct 13]**
+- [ ] [S06 — Adverb Clauses & Conditionals](<study-notes/structure/[14-Oct] S06 - Adverb Clauses and Conditionals.md>) **[Deadline: Oct 14]**
+- [ ] [S07 — Inversion, Comparatives, Parallelism](<study-notes/structure/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>) **[Deadline: Oct 15]**
+- [ ] [S08 — Word Forms, Articles, Prepositions](<study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>) **[Deadline: Oct 16]**
 - [ ] [Structure Test 01](<hands-on/[17-Oct] Structure Test 01.md>) **[Deadline: Oct 17]**
 
 ---

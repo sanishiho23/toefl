@@ -147,4 +147,4 @@ She sings ___ a professional.      → like   (similarity)
 
 **Score:** ___ / 12 · Target ≥ 10.
 
-→ Log misses in [error log](<../../progress/error-log.md>).
+→ Log misses in [error log](<../../../progress/error-log.md>).

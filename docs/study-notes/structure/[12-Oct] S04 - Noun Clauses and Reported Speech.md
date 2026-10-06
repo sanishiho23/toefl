@@ -154,4 +154,4 @@ ___ how difficult it is, she never gives up.            → No matter
 
 **Score:** ___ / 12 · Target ≥ 10.
 
-→ Log misses in [error log](<../../progress/error-log.md>).
+→ Log misses in [error log](<../../../progress/error-log.md>).

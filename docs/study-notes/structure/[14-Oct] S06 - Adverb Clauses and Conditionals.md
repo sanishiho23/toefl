@@ -136,4 +136,4 @@ so + many/much/few/little + noun → so many problems that …
 
 **Score:** ___ / 12 · Target ≥ 10.
 
-→ Log misses in [error log](<../../progress/error-log.md>).
+→ Log misses in [error log](<../../../progress/error-log.md>).

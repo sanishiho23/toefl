@@ -39,7 +39,7 @@ least five rows in [error log](<../../progress/error-log.md>).
 **Objective:** Find the *real* subject in a sentence full of decoys. This single skill fixes
 more Section 2 questions than any other.
 
-- **Material:** [S01   Subject Verb Agreement](<../study-notes/[06-Oct] S01 - Subject-Verb Agreement.md>)
+- **Material:** [S01   Subject Verb Agreement](<../study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>)
 - **Drill:** S01 exercise set (20 items) + [Structure Test 01](<../hands-on/[17-Oct] Structure Test 01.md>) questions 1–15 only
 - **Log:** `docs/logs/daily/week-00/06-10-2026.md`
 
@@ -68,7 +68,7 @@ more Section 2 questions than any other.
 
 **Objective:** Stop guessing tense. The adverb in the sentence already told you.
 
-- **Material:** [S02   Verb Tenses and Time Markers](<../study-notes/[07-Oct] S02 - Verb Tenses and Time Markers.md>)
+- **Material:** [S02   Verb Tenses and Time Markers](<../study-notes/structure/[07-Oct] S02 - Verb Tenses and Time Markers.md>)
 - **Drill:** S02 exercise set (20 items) + Structure Test 01 Q16–30
 - **Log:** `docs/logs/daily/week-00/07-10-2026.md`
 
@@ -117,7 +117,7 @@ and S03 slides to Saturday. Falling behind a rule is fine; skipping past it is n
 
 **Objective:** Kill the -ed / -ing confusion and know which verbs take *to* vs *-ing*.
 
-- **Material:** [S03   Participles, Gerunds and Infinitives](<../study-notes/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>)
+- **Material:** [S03   Participles, Gerunds and Infinitives](<../study-notes/structure/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>)
 - **Drill:** S03 exercises (20 items) + Structure Test 01 Q31–40
 - **Log:** `docs/logs/daily/week-00/09-10-2026.md`
 

@@ -156,4 +156,4 @@ Choose the correct form. Answers at the bottom — don't peek.
 
 **Score:** ___ / 12 · Target ≥ 10. Anything below 9 → redo the decoy table before moving on.
 
-→ Log misses in [error log](<../../progress/error-log.md>) with the decoy number named.
+→ Log misses in [error log](<../../../progress/error-log.md>) with the decoy number named.

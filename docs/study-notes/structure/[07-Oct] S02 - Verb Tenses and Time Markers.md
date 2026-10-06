@@ -130,4 +130,4 @@ The results of the survey ___ tomorrow.      → will be published
 
 **Score:** ___ / 12 · Target ≥ 10.
 
-→ Log misses in [error log](<../../progress/error-log.md>), tagged with the marker you missed.
+→ Log misses in [error log](<../../../progress/error-log.md>), tagged with the marker you missed.

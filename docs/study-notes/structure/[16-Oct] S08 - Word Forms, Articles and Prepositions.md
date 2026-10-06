@@ -26,7 +26,7 @@ succeed (v) → success (n) → successful (adj) → successfully (adv) → unsu
 vary (v) → variety (n) → various (adj) → variation (n) → invariably (adv)
 compete (v) → competition (n) → competitive (adj) → competitor (n) → competitively (adv)
 ```
-Full list: [Word Families](<vocabulary/[16-Oct] Word Families.md>)
+Full list: [Word Families](<../vocabulary/[16-Oct] Word Families.md>)
 
 ### How to decide the answer — the slot test
 1. Look at the **slot**, not the word.
@@ -158,4 +158,4 @@ Each sentence has one underlined word that may be wrong. Choose the error, or "N
 
 **Score:** ___ / 15 · Target ≥ 12.
 
-→ Log misses in [error log](<../../progress/error-log.md>) as full **word families**.
+→ Log misses in [error log](<../../../progress/error-log.md>) as full **word families**.

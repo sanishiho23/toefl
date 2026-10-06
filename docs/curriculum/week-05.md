@@ -11,7 +11,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 ## D36
 **Mon 9 Nov · Light structure review** · 60 min
 
-- **Material:** [s01](<../study-notes/[06-Oct] S01 - Subject-Verb Agreement.md>) → [s08](<../study-notes/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>), skim only
+- **Material:** [s01](<../study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>) → [s08](<../study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>), skim only
 - **Log:** `docs/logs/daily/week-05/09-11-2026.md`
 
 | Block | Min | Task |
