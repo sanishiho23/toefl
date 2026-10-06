@@ -61,7 +61,7 @@ direction, not a prediction.
 
 | Week | Dates | Hours logged | Sessions | Structure % | Reading % | Listening % | Notes |
 |---|---|---:|---:|---:|---:|---:|---|
-| 00 | Oct 5–11 | | /7 | | | | |
+| 00 | Oct 5–11 | 2.0 | 2/7 | 92% (S01 ex) | — | — | S01 exercise 11/12; diagnostic S 10/15, R 12/15 |
 | 01 | Oct 12–18 | | /7 | | | | |
 | 02 | Oct 19–25 | | /7 | | | | |
 | 03 | Oct 26–Nov 1 | | /7 | | | | |
@@ -78,7 +78,7 @@ Fill after Day 13 (Structure Test 01) and again after Day 32 (Mock #2).
 
 | Module | Test 01 % | Mock #2 % | Status |
 |---|---:|---:|---|
-| S01 Subject–verb agreement | | | |
+| S01 Subject–verb agreement | 92% | | 🟢 |
 | S02 Verb tenses | | | |
 | S03 Participles / gerunds | | | |
 | S04 Noun clauses | | | |
