@@ -33,8 +33,8 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-06 | Diag #17 | `R-vocab` | Read *consequential* as "unfortunate" — guessed from tone, not structure. | *consequential* = **significant** (from *consequence* = result/importance). Learn it as a family. | |
 | 2026-10-06 | Diag #21 | `R-detail` | Answered from paragraph 4 (transport) instead of paragraph 3. | The question said *paragraph 3*. Locate the paragraph number **before** reading options. | |
 | 2026-10-06 | Diag #25 | `R-vocab` | Chose *readable* — the literal synonym. Item was defective; option A has been changed to *writable*. | Figurative use: *legible to bureaucracies* = **comprehensible**. Context beats literal meaning. | |
+| 2026-10-06 | S01 ex #1 | `S01` decoy 1 — prep phrase | Chose **A** (*is*) — grabbed *policy* inside the prep phrase instead of the headword *effects*. | Delete the interruption (*of the new policy…*) before choosing. Headword is *effects* → **are** (B). | |
 | 2026-10-06 | S01 ex #8 | `S01` decoy 3 — one of those + who | Chose **D** (*was*) — treated *who* as referring to *she* (singular). | *who* after *one of those researchers* → refers to *researchers* (plural) → **have** (B). | |
-| 2026-10-06 | S01 ex #11 | `S01` decoy 7 — noun looks plural but isn't | Chose **D** (*have been*) — read *news* as plural because of the -s and *recipients*. | *news* is singular. Headword is *news*, not *recipients*. → **is** (C). | |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 
