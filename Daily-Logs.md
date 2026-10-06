@@ -185,7 +185,7 @@ the reflection. This file is the index and the narrative.
 1. 2026-10-05: [Diagnostic — establish the baseline](<./docs/logs/daily/week-00/05-10-2026.md>)
    (_Status:_ Done - Structure 10/15, Reading 12/15; est. S ~52, R ~56; S01 and S05 are the weakest modules)
 2. 2026-10-06: [S01 — subject-verb agreement and word order](<./docs/logs/daily/week-00/06-10-2026.md>)
-   (_Status:_ )
+   (_Status:_ Done - S01 exercise 10/12 (83%); misses on decoy 3 (one of those + who) and decoy 7 (news = singular))
 3. 2026-10-07: [S02 — verb tenses and time markers](<./docs/logs/daily/week-00/07-10-2026.md>)
    (_Status:_ )
 4. 2026-10-08: [Mixed S01 + S02 under exam timing](<./docs/logs/daily/week-00/08-10-2026.md>)
