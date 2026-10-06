@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="TOEFL ITP Level 1 preparation banner">
+  <rect width="1200" height="220" fill="#F1EFE8"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#185FA5"/>
+  <rect x="0" y="214" width="1200" height="6" fill="#185FA5"/>
+
+  <rect x="56" y="60" width="64" height="100" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
+  <rect x="70" y="76" width="36" height="5" rx="2.5" fill="#185FA5"/>
+  <rect x="70" y="90" width="36" height="5" rx="2.5" fill="#378ADD"/>
+  <rect x="70" y="104" width="36" height="5" rx="2.5" fill="#378ADD"/>
+  <rect x="70" y="118" width="24" height="5" rx="2.5" fill="#378ADD"/>
+  <circle cx="92" cy="142" r="9" fill="none" stroke="#185FA5" stroke-width="2"/>
+
+  <text x="152" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="600" fill="#0C447C">TOEFL ITP — Level 1</text>
+  <text x="152" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#185FA5">Self-directed preparation · 5 October – 15 November 2026</text>
+  <text x="152" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#5F5E5A">Listening 50 · Structure 40 · Reading 50 — 140 questions, 115 minutes</text>
+
+  <rect x="860" y="66" width="284" height="88" rx="10" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
+  <text x="1002" y="102" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#0C447C">550 / 677</text>
+  <text x="1002" y="126" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#185FA5">section scores must sum to 165</text>
+  <text x="1002" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#5F5E5A">≈ 105 of 140 raw</text>
+</svg>

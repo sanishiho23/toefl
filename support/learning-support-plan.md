@@ -26,7 +26,7 @@
 - Wants a structured plan with a daily log, in the style of an internship journal.
 
 **Not provided (do not guess):**
-- Baseline score — hence the **[Day 1 diagnostic](../practice/diagnostic/diagnostic-test.md)**.
+- Baseline score — hence the **[Day 1 diagnostic](<../docs/hands-on/[05-Oct] Diagnostic Test.md>)**.
   The plan's first job is to *produce* this number, not assume it.
 - First language, prior English instruction, or any previous test score.
 - Any diagnosed condition, and none is assumed or needed. Nothing here depends on one.

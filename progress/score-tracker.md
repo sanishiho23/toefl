@@ -2,7 +2,7 @@
 
 One row per assessment. Update it the **same day** — a number written a week later is a guess.
 
-Legend: **est.** = converted with the [estimate table](../materials/reference/score-conversion.md).
+Legend: **est.** = converted with the [estimate table](<../docs/study-notes/reference/Score Conversion.md>).
 **official** = from ETS / your institution. Never mix them up.
 
 ---

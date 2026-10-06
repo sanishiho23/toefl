@@ -1,16 +1,110 @@
 # TOEFL ITP Preparation — Level 1
 
-**Learner:** sanishiho23 · **Target:** Level 1, **550+ / 677** · **Daily budget:** 1.5–2 h
-**Prep window:** Mon 5 Oct 2026 → Sun 15 Nov 2026 (6 weeks / 42 days)
-**Target test date:** Sat 14 Nov 2026 ⚠️ *replace with your confirmed institutional date*
+![toefl-banner](./assets/toefl-banner.svg)
 
-This repo is a self-directed study journal. It works like an internship log: every day gets a
-commit, every session gets a number, every mistake gets written down. The plan is a plan —
-the log is the truth.
+## 1. Profile
 
----
+1. **Name:** sanishiho23
+2. **GitHub:** [github.com/sanishiho23](https://github.com/sanishiho23)
+3. **Programme:** TOEFL ITP Level 1 — self-directed preparation
+4. **Administering institution:** _(fill in — the body that runs your test date)_
+5. **Target score:** 550 / 677
+6. **Weakest section:** Structure & Written Expression (40 questions / 25 minutes)
+7. **Daily budget:** 1.5–2 hours
+8. **Period:** 5 October – 15 November 2026 (6 weeks / 42 days)
+9. **Target test date:** Saturday 14 November 2026 ⚠️ _replace with your confirmed date_
+10. **Accountability partner:** _(optional — see the [support plan](<./support/learning-support-plan.md>))_
 
-## 1. What the test actually is
+## 2. End of Program Report
+
+### 1. Study plan and curriculum
+
+- [ ] [Study plan with weekly deadlines](<./docs/Goals-Summary.md>)
+- [ ] [Week 00 — diagnostic and structure bootcamp](<./docs/curriculum/week-00.md>)
+- [ ] [Week 01 — structure deep dive](<./docs/curriculum/week-01.md>)
+- [ ] [Week 02 — reading comprehension](<./docs/curriculum/week-02.md>)
+- [ ] [Week 03 — listening comprehension and mock 1](<./docs/curriculum/week-03.md>)
+- [ ] [Week 04 — integration and mock 2](<./docs/curriculum/week-04.md>)
+- [ ] [Week 05 — taper and exam](<./docs/curriculum/week-05.md>)
+
+### 2. Study notes
+
+Structure & Written Expression (priority)
+
+- [ ] [S01 — Subject-verb agreement and word order](<./docs/study-notes/[06-Oct] S01 - Subject-Verb Agreement.md>)
+- [ ] [S02 — Verb tenses and time markers](<./docs/study-notes/[07-Oct] S02 - Verb Tenses and Time Markers.md>)
+- [ ] [S03 — Participles, gerunds and infinitives](<./docs/study-notes/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>)
+- [ ] [S04 — Noun clauses and reported speech](<./docs/study-notes/[12-Oct] S04 - Noun Clauses and Reported Speech.md>)
+- [ ] [S05 — Adjective clauses and reductions](<./docs/study-notes/[13-Oct] S05 - Adjective Clauses and Reductions.md>)
+- [ ] [S06 — Adverb clauses and conditionals](<./docs/study-notes/[14-Oct] S06 - Adverb Clauses and Conditionals.md>)
+- [ ] [S07 — Inversion, comparatives and parallelism](<./docs/study-notes/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>)
+- [ ] [S08 — Word forms, articles and prepositions](<./docs/study-notes/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>)
+
+Listening
+
+- [ ] [L01 — Part A strategy](<./docs/study-notes/listening/[10-Oct] L01 - Part A Strategy.md>)
+- [ ] [L02 — Idiom bank (120 items)](<./docs/study-notes/listening/[27-Oct] L02 - Idiom Bank.md>)
+- [ ] [L03 — Parts B and C, note-taking](<./docs/study-notes/listening/[28-Oct] L03 - Parts B and C Note-taking.md>)
+- [ ] [L04 — Audio script bank](<./docs/study-notes/listening/[24-Oct] L04 - Audio Script Bank.md>)
+
+Reading and vocabulary
+
+- [ ] [R01 — The 8 question types](<./docs/study-notes/reading/[19-Oct] R01 - Question Types.md>)
+- [ ] [R02 — Vocabulary in context](<./docs/study-notes/reading/[20-Oct] R02 - Vocabulary in Context.md>)
+- [ ] [R03 — Practice passages](<./docs/study-notes/reading/[21-Oct] R03 - Practice Passages.md>)
+- [ ] [Academic word list (240 words)](<./docs/study-notes/vocabulary/[20-Oct] Academic Word List.md>)
+- [ ] [Word families](<./docs/study-notes/vocabulary/[16-Oct] Word Families.md>)
+
+Reference
+
+- [ ] [Score conversion](<./docs/study-notes/reference/Score Conversion.md>)
+- [ ] [Test day playbook](<./docs/study-notes/reference/Test Day Playbook.md>)
+- [ ] [Timing and guessing](<./docs/study-notes/reference/Timing and Guessing.md>)
+- [ ] [External resources](<./docs/study-notes/reference/Resources.md>)
+
+### 3. Hands-on (tests and drills)
+
+- [ ] [Diagnostic test — 30 questions](<./docs/hands-on/[05-Oct] Diagnostic Test.md>)
+- [ ] [Structure test 01 — 40 questions / 25 min](<./docs/hands-on/[17-Oct] Structure Test 01.md>)
+- [ ] [Reading test 01 — 25 questions / 28 min](<./docs/hands-on/[23-Oct] Reading Test 01.md>)
+- [ ] [Listening test 01 — 20 questions, script-based](<./docs/hands-on/[29-Oct] Listening Test 01.md>)
+- [ ] [Mock exam protocol](<./docs/hands-on/[31-Oct] Mock Exam Protocol.md>)
+- [ ] Mock exam 1 run (day 27, estimated total ≥ 520)
+- [ ] Mock exam 2 run (day 32, estimated total ≥ 545)
+
+### 4. Logs
+
+- [ ] [Daily logs — 42 entries](<./docs/logs/daily/README.md>)
+- [ ] [Weekly reports](<./docs/logs/weekly/>)
+- [ ] [Master journal (Daily-Logs.md)](<./Daily-Logs.md>)
+- [ ] [Score tracker](<./progress/score-tracker.md>)
+- [ ] [Error log](<./progress/error-log.md>)
+- [ ] [Important dates](<./docs/logs/Important Dates.md>)
+
+### 5. Final result
+
+- [ ] Official score recorded in the [score tracker](<./progress/score-tracker.md>)
+- [ ] Retro entry written on [day 42](<./docs/logs/daily/week-05/15-11-2026.md>)
+- [ ] Final push to `origin/main`
+
+## 3. Repository map
+
+| Path | Contents |
+|---|---|
+| `Daily-Logs.md` | master journal, reverse chronological, weekly blocks |
+| `docs/Goals-Summary.md` | the study plan — weekly objectives, topics, deadlines |
+| `docs/curriculum/` | 6 week plans, each holding 7 daily lesson plans |
+| `docs/study-notes/` | grammar, listening, reading, vocabulary, reference |
+| `docs/hands-on/` | practice tests and the mock exam protocol |
+| `docs/logs/daily/week-NN/` | 42 daily entries, `DD-MM-YYYY.md` |
+| `docs/logs/weekly/` | weekly reports |
+| `docs/meetings/` | check-ins with the accountability partner |
+| `progress/` | score tracker and error log |
+| `support/` | study-access plan, goals and review table |
+| `tools/` | daily-log generator |
+| `assets/` | banner |
+
+## 4. What the test actually is
 
 Source: [ETS — TOEFL ITP Test Content](https://www.ets.org/toefl/itp/test-content.html) (official).
 
@@ -24,99 +118,18 @@ Source: [ETS — TOEFL ITP Test Content](https://www.ets.org/toefl/itp/test-cont
 **Score arithmetic (exact):** `Total = round((Listening + Structure + Reading) × 10 / 3)`.
 So **550 needs the three section scores to add to 165** — e.g. L 54 + S 57 + R 54.
 
-**Working raw-score estimate for 550** (⚠️ estimate, not the official table — verify against
-ETS's conversion chart or your institution's):
-
-| Section | Raw needed | Why this split |
-|---|---:|---|
-| Structure | **32 / 40** (80%) | Your weakest section, but also the fastest to fix — ~15 rules carry it |
-| Listening | **38 / 50** (76%) | Idiom + function questions are the cheap points |
-| Reading | **35 / 50** (70%) | Vocabulary-in-context and NOT/EXCEPT are highest yield |
-| **Total** | **≈ 105 / 140 (75%)** | |
-
-> See [materials/reference/score-conversion.md](materials/reference/score-conversion.md) for the full working table.
-
----
-
-## 2. How to use this repo — the daily loop
-
-```
-1. Open today's file ............ daily-log/2026-10-05.md
-2. Read the plan for that day ... curriculum/week-00.md#d1
-3. Open the linked material ..... materials/structure/s01-subject-verb-agreement.md
-4. Drill ........................ practice/...  (timed, no pausing)
-5. Score it, log every error .... progress/error-log.md
-6. Fill the reflection in the log, commit
-```
-
-**Rules that make this work:**
-
-- **Commit daily.** `git commit -m "day 01: SVA drill 22/25"`. The streak is the motivation system.
-- **Never leave a wrong answer unexplained.** One line in the error log: *rule → why I missed it → fix*.
-- **Timed or it doesn't count.** 40 structure questions in 25 min is 37 s/question. Train the clock.
-- **No new material in the last 3 days.** Week 5 is review and sleep only.
-
----
-
-## 3. Repo map
-
-### Curriculum & lesson plans
-- [curriculum/README.md](curriculum/README.md) — **the master 6-week table** (start here)
-- [curriculum/week-00.md](curriculum/week-00.md) — Diagnostic + Structure bootcamp
-- [curriculum/week-01.md](curriculum/week-01.md) — Structure deep dive
-- [curriculum/week-02.md](curriculum/week-02.md) — Reading comprehension
-- [curriculum/week-03.md](curriculum/week-03.md) — Listening comprehension
-- [curriculum/week-04.md](curriculum/week-04.md) — Integration + full mock exams
-- [curriculum/week-05.md](curriculum/week-05.md) — Taper week + exam
-
-### Materials
-- [materials/structure/](materials/structure/) — 8 grammar modules (**your priority**)
-- [materials/listening/](materials/listening/) — strategy, idiom bank, script bank
-- [materials/reading/](materials/reading/) — question types, vocab attack, practice passages
-- [materials/vocabulary/](materials/vocabulary/) — academic word list, word families
-- [materials/reference/](materials/reference/) — test-day playbook, timing, score table, external links
-
-### Practice
-- [practice/diagnostic/diagnostic-test.md](practice/diagnostic/diagnostic-test.md) — 30 Q baseline (do this first)
-- [practice/section-tests/structure-test-01.md](practice/section-tests/structure-test-01.md) — 40 Q / 25 min
-- [practice/section-tests/reading-test-01.md](practice/section-tests/reading-test-01.md) — 25 Q / 28 min
-- [practice/section-tests/listening-test-01.md](practice/section-tests/listening-test-01.md) — script-based, 20 Q
-- [practice/mock-exam-protocol.md](practice/mock-exam-protocol.md) — how to run a full 115-min sitting
-
-### Tracking
-- [daily-log/README.md](daily-log/README.md) — log index + how to write an entry
-- [daily-log/TEMPLATE.md](daily-log/TEMPLATE.md) — blank entry you can copy
-- [progress/score-tracker.md](progress/score-tracker.md) — every score, every week
-- [progress/error-log.md](progress/error-log.md) — the most valuable file in this repo
-
-### Support
-- [support/learning-support-plan.md](support/learning-support-plan.md) — study-access plan, goals & review table
-
----
-
-## 4. Progress at a glance
-
-| Week | Dates | Focus | Section target | Actual |
-|---|---|---|---|---|
-| 00 | Oct 5–11 | Diagnostic + Structure bootcamp | establish baseline | |
-| 01 | Oct 12–18 | Structure deep dive | S ≥ 26 / 40 | |
-| 02 | Oct 19–25 | Reading comprehension | R ≥ 30 / 50 | |
-| 03 | Oct 26–Nov 1 | Listening comprehension | L ≥ 32 / 50 | |
-| 04 | Nov 2–8 | Integration + 2 full mocks | **Total ≥ 545** | |
-| 05 | Nov 9–15 | Taper + **EXAM Sat Nov 14** | **550+** | |
-
----
+Working raw estimate for 550 (⚠️ estimate, not the official ETS table): Structure 32/40,
+Listening 38/50, Reading 35/50 → **≈ 105 / 140 (75%)**.
+See [Score Conversion](<./docs/study-notes/reference/Score Conversion.md>).
 
 ## 5. Official practice from ETS (free)
 
-- [ETS — TOEFL ITP Preparation page](https://www.ets.org/toefl/itp/prepare.html)
-- [Level 1 · Section 1 · Listening sample questions](https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_itp/test_preparation/sample_questions/level1_section1_listening_comprehension.html)
-- [Level 1 · Section 2 · Structure sample questions](https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_itp/test_preparation/sample_questions/level1_section2_structure_written_expression.html)
-- [Level 1 · Section 3 · Reading sample questions](https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_itp/test_preparation/sample_questions/level1_section3_reading_comprehension.html)
+- [ETS — TOEFL ITP Preparation](https://www.ets.org/toefl/itp/prepare.html)
+- [Level 1 · Section 1 · Listening samples](https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_itp/test_preparation/sample_questions/level1_section1_listening_comprehension.html)
+- [Level 1 · Section 2 · Structure samples](https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_itp/test_preparation/sample_questions/level1_section2_structure_written_expression.html)
+- [Level 1 · Section 3 · Reading samples](https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_itp/test_preparation/sample_questions/level1_section3_reading_comprehension.html)
 
-More free sources: [materials/reference/resources.md](materials/reference/resources.md)
-
----
+More free sources: [Resources](<./docs/study-notes/reference/Resources.md>)
 
 ## 6. Repo hygiene
 
@@ -126,4 +139,4 @@ git commit -m "day NN: <section> drill <score>"
 git push origin main
 ```
 
-The single commit that matters most is tomorrow's.
+Every day gets a commit. The single commit that matters most is tomorrow's.
