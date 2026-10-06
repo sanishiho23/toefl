@@ -11,7 +11,7 @@ Legend: **est.** = converted with the [estimate table](<../docs/study-notes/refe
 
 | Day | Date | Assessment | L raw | S raw | R raw | L | S | R | Total | Type |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| 1 | 2026-10-05 | Diagnostic | — | /15 | /15 | — | | | | est. |
+| 1 | 2026-10-06 | Diagnostic | — | **10**/15 | **12**/15 | — | ~52 | ~56 | — | est. |
 | 13 | 2026-10-17 | Structure Test 01 | — | /40 | — | — | | — | — | est. |
 | 19 | 2026-10-23 | Reading Test 01 | — | — | /25 | — | — | | — | est. |
 | 25 | 2026-10-29 | Listening Test 01 | /20 | — | — | | — | — | — | est. |
@@ -21,6 +21,39 @@ Legend: **est.** = converted with the [estimate table](<../docs/study-notes/refe
 
 **Target:** section scores summing to **165** → total **550**.
 Check: `round((L + S + R) × 10 / 3)`
+
+---
+
+## Day 1 baseline — 6 October 2026
+
+**Structure 10 / 15 (67%) · Reading 12 / 15 (80%) · Total 22 / 30 (73%)**
+
+Projected with ×3.3 onto the 50-point scale: **Structure 33/50 · Reading 36/50**.
+Converted with the estimate tables: **Structure ≈ 52 · Reading ≈ 56**.
+
+| Section | Raw | % | Projected /50 | Est. scaled |
+|---|---:|---:|---:|---:|
+| Listening | not tested | — | — | — |
+| Structure | 10 / 15 | 67% | 33 / 50 | ~52 |
+| Reading | 12 / 15 | 80% | 36 / 50 | ~56 |
+
+### What the arithmetic demands
+
+With S ≈ 52 and R ≈ 56, Listening would have to reach **57** — about **39 of 50 raw** — to total
+550. That is the hardest of the three sections to buy points in, and it is unfair to ask of it.
+
+If Structure rises to **32/40 (scaled ≈ 57)** and Reading holds at 56, Listening only needs
+**52** (≈ 32/50 raw). That is a normal score, not a heroic one.
+
+> **Every +5 raw in Structure is worth roughly +6 scaled points, and it takes the same pressure
+> off Listening.** Structure is the lever. Weeks 00–01 were built for exactly this.
+
+### ⚠️ Read this before you trust the Structure number
+
+The diagnostic's Structure items are all **sentence-completion**. The real Section 2 is ~15
+completion + **25 error-identification** questions, and error-identification is harder. Expect
+your real Structure score to come in **below 52** on the first full attempt. The diagnostic is a
+direction, not a prediction.
 
 ---
 

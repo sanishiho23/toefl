@@ -25,15 +25,53 @@ A mistake you can't name is a mistake you'll repeat.
 
 | Date | Src | Category | Why | Fix | ✓ |
 |---|---|---|---|---|---|
-| 2026-10-05 | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| 2026-10-06 | Diag #2 | `S01` decoy 8 — correlative | Chose *was* by matching "professor" (the first subject). | neither…nor → agree with the **nearest** subject (*students*) → **were**. | |
+| 2026-10-06 | Diag #3 | `S01` decoy 5 — quantity | Read "a number of" as singular because it ends in "number". | *a number of* = plural → **were**. Only *the number of* is singular. | |
+| 2026-10-06 | Diag #7 | `S03` participle -ed/-ing | Treated the lecture as the thing that *feels*. | -ing = causes the feeling, -ed = feels it. Lecture → **boring**. | |
+| 2026-10-06 | Diag #8 | `S05` reduction | Picked a finite verb (*were collected*) inside a modifier slot. | Reduction of a passive clause = past participle alone → **collected**. No "were". | |
+| 2026-10-06 | Diag #13 | `S05` redundancy | *because* after *reason* sounds natural in speech. | Fixed frame: **the reason … is that**. Never *is because*. | |
+| 2026-10-06 | Diag #17 | `R-vocab` | Read *consequential* as "unfortunate" — guessed from tone, not structure. | *consequential* = **significant** (from *consequence* = result/importance). Learn it as a family. | |
+| 2026-10-06 | Diag #21 | `R-detail` | Answered from paragraph 4 (transport) instead of paragraph 3. | The question said *paragraph 3*. Locate the paragraph number **before** reading options. | |
+| 2026-10-06 | Diag #25 | `R-vocab` | Chose *readable* — the literal synonym. Item was defective; option A has been changed to *writable*. | Figurative use: *legible to bureaucracies* = **comprehensible**. Context beats literal meaning. | |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
+
+---
+
+## Day 1 diagnostic — module tally (6 October 2026)
+
+**Structure — 5 misses**
+
+| Module | Misses | Count |
+|---|---|---:|
+| `S01` subject-verb agreement | #2, #3 | **2** |
+| `S05` adjective clauses / reductions | #8, #13 | **2** |
+| `S03` participles | #7 | 1 |
+
+Clean: S02 (3/3), S04 (2/2), S07 (2/2), **S08 (2/2)**
+
+**Reading — 3 misses**
+
+| Type | Misses | Count |
+|---|---|---:|
+| `R-vocab` vocabulary in context | #17, #25 | **2** |
+| `R-detail` | #21 | 1 |
+
+Clean: main idea (2/2), inference (1/1), NOT/EXCEPT (1/1), reference (2/2), tone (1/1)
+
+### Order of attack
+
+1. **`S01` — 2 misses.** Already scheduled as Day 2. Both misses come from picking the *nearest*
+   noun instead of the headword, or from a memorised-but-wrong quantity rule. Drill the decoy
+   table, not the exercises.
+2. **`S05` — 2 misses.** Both are recognition failures, not reasoning failures: you need the
+   *shape* (participle alone, `reason … that`) to be automatic. Add both to flashcards.
+3. **`R-vocab` — 2 misses.** Vocabulary, not reading technique. This is the 240-word list,
+   starting Week 02 — but start 10 words a day now, it costs 5 minutes.
+
+> Note: **S08 word forms came back clean (2/2)**, which is unusual — it is normally the weakest
+> module. Retest it on Day 12 with the full 25-item set before believing it.
+
 
 ---
 

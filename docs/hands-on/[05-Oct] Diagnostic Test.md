@@ -89,8 +89,8 @@ Choose the option that best completes the sentence.
     (B) never successfully domesticated
     (C) first kept for meat and milk
     (D) domesticated in southern Kazakhstan
-19. The word **it** in paragraph 2 refers to
-    (A) the bit  (B) the distinctive bevel  (C) the premolar  (D) the wild animal
+19. In "over years of use **it** produces a distinctive bevel" (paragraph 2), the word it refers to
+    (A) the mouthpiece / bit  (B) the distinctive bevel  (C) the premolar  (D) the wild animal
 20. What is a "bevel" as described in paragraph 2?
     (A) A type of bit used in Kazakhstan
     (B) A slanted wear facet on a horse's tooth caused by a bit
@@ -137,14 +137,15 @@ Choose the option that best completes the sentence.
     (B) A physics unit reshaped how nutrition was understood and managed, with unintended effects.
     (C) Armies were the first to calculate rations.
     (D) Fat, protein and carbohydrate are metabolised identically.
-25. The word **legible** in paragraph 3 is closest in meaning to
-    (A) readable  (B) comprehensible  (C) profitable  (D) invisible
+25. The word **legible** in "made nutrition legible to bureaucracies" (paragraph 3) is closest in
+    meaning to
+    (A) writable  (B) comprehensible  (C) profitable  (D) invisible
 26. According to the passage, the calorie was originally
     (A) a measure of nutritional value
     (B) a unit of heat used in physics
     (C) invented by nutritionists
     (D) based on the energy a person expends
-27. The word **it** in paragraph 2 refers to
+27. In "for decades **it** belonged squarely to physics" (paragraph 2), the word it refers to
     (A) the calorie  (B) the measurement  (C) the food  (D) the person
 28. According to paragraph 3, all of the following resulted from attaching a fixed number to food EXCEPT
     (A) diets could be calculated
@@ -187,10 +188,18 @@ Choose the option that best completes the sentence.
 | 16 | **B** | main idea | 24 | **B** | main idea |
 | 17 | **B** | vocabulary | 25 | **B** | vocabulary |
 | 18 | **C** | detail | 26 | **B** | detail |
-| 19 | **B** | reference | 27 | **C** | reference |
+| 19 | **A** | reference | 27 | **A** | reference |
 | 20 | **B** | detail | 28 | **C** | NOT/EXCEPT |
 | 21 | **B** | detail | 29 | **B** | detail |
-| 22 | **B** | inference-ish vocab | 30 | **B** | tone |
+| 22 | **B** | vocabulary | 30 | **B** | tone |
+| 23 | **A** | inference | | | |
+
+> **Correction log.** Two items in this key were wrong on first publication and have been fixed:
+> **Q19** was listed as B, which is impossible — the bevel cannot produce itself. The agent that
+> produces the bevel is the mouthpiece, so the answer is **A**. **Q23** was missing from the key
+> entirely; the answer is **A** (few stallions, many mares). Two further items were ambiguous and
+> have been reworded: **Q25** (option A was "readable", a literal synonym of *legible* — now
+> "writable") and **Q27** (paragraph 2 contains three *it*s; the question now names the first one).
 
 ---
 
