@@ -35,6 +35,11 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-06 | Diag #25 | `R-vocab` | Chose *readable* — the literal synonym. Item was defective; option A has been changed to *writable*. | Figurative use: *legible to bureaucracies* = **comprehensible**. Context beats literal meaning. | |
 | 2026-10-06 | S01 ex #1 | `S01` decoy 1 — prep phrase | Chose **A** (*is*) — grabbed *policy* inside the prep phrase instead of the headword *effects*. | Delete the interruption (*of the new policy…*) before choosing. Headword is *effects* → **are** (B). | |
 | 2026-10-06 | S01 ex #8 | `S01` decoy 3 — one of those + who | Chose **D** (*was*) — treated *who* as referring to *she* (singular). | *who* after *one of those researchers* → refers to *researchers* (plural) → **have** (B). | |
+| 2026-10-07 | S02 ex #1 | `S02` — past perfect vs simple past | Chose **C** (*was*) — saw *arrived* (past) and matched it with *was*. | *By the time X arrived* = two past events; earlier one → **had** (B). |
+| 2026-10-07 | S02 ex #2 | `S02` — present perfect with *since* | Chose **B** (*taught*) — read *since 2012* as finished past. | *since* + point in time → action continues → **has taught** (C). |
+| 2026-10-07 | S02 ex #3 | `S02` — future passive | Chose **C** (*will have considered*) — missed passive voice. | *proposals* receive the action → passive required → **will be considered** (B). |
+| 2026-10-07 | S02 ex #5 | `S02` — past perfect progressive | Chose **B** (*have studied*) — ignored *rang* (past). | Duration up to a past point → **had been studying** (C). |
+| 2026-10-07 | S02 ex #8 | `S02` — future perfect progressive | Chose **C** (*will be managing*) — *by next December* + duration not linked. | *by* + future time + *for* duration → **will have been managing** (B). |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 

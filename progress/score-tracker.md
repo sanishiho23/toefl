@@ -61,7 +61,7 @@ direction, not a prediction.
 
 | Week | Dates | Hours logged | Sessions | Structure % | Reading % | Listening % | Notes |
 |---|---|---:|---:|---:|---:|---:|---|
-| 00 | Oct 5–11 | 2.0 | 2/7 | 92% (S01 ex) | — | — | S01 exercise 11/12; diagnostic S 10/15, R 12/15 |
+| 00 | Oct 5–11 | 3.5 | 3/7 | 92% (S01 ex), 58% (S02 ex) | — | — | S01 11/12, S02 7/12; diagnostic S 10/15, R 12/15 |
 | 01 | Oct 12–18 | | /7 | | | | |
 | 02 | Oct 19–25 | | /7 | | | | |
 | 03 | Oct 26–Nov 1 | | /7 | | | | |

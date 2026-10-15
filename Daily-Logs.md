@@ -187,7 +187,7 @@ the reflection. This file is the index and the narrative.
 2. 2026-10-06: [S01 — subject-verb agreement and word order](<./docs/logs/daily/week-00/06-10-2026.md>)
    (_Status:_ Done - S01 exercise 11/12 (92%); misses on decoy 1 (prep phrase) and decoy 3 (one of those + who))
 3. 2026-10-07: [S02 — verb tenses and time markers](<./docs/logs/daily/week-00/07-10-2026.md>)
-   (_Status:_ )
+   (_Status:_ Done - S02 exercise 7/12 (58%); misses on past perfect (#1), present perfect with since (#2), future passive (#3), past perfect progressive (#5), future perfect progressive (#8))
 4. 2026-10-08: [Mixed S01 + S02 under exam timing](<./docs/logs/daily/week-00/08-10-2026.md>)
    (_Status:_ )
 5. 2026-10-09: [S03 — participles, gerunds, infinitives](<./docs/logs/daily/week-00/09-10-2026.md>)
