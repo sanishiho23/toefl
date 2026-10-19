@@ -62,6 +62,9 @@ Everyday & practical English ([E-series index](<./docs/study-notes/practical-eng
 - [ ] [E03 — Weather and seasons](<./docs/study-notes/practical-english/E03 - Weather and Seasons.md>)
 - [ ] [E04 — Business and workplace English](<./docs/study-notes/practical-english/E04 - Business and Workplace English.md>)
 - [ ] [E05 — Gen Z slang (off-test, general English)](<./docs/study-notes/practical-english/E05 - Gen Z Slang - Off-Test.md>) 🚫
+- [ ] [E06 — Travel and hospitality](<./docs/study-notes/practical-english/E06 - Travel and Hospitality.md>)
+- [ ] [E07 — Phone and everyday communication](<./docs/study-notes/practical-english/E07 - Phone and Everyday Communication.md>)
+- [ ] [E08 — Everyday collocations: do/make/have/take](<./docs/study-notes/practical-english/E08 - Everyday Collocations - do, make, have, take.md>) ⭐
 
 Reference
 

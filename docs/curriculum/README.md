@@ -78,6 +78,9 @@ Read as the 5-min warm-up block, not in place of the core S/L/R modules. Full in
 | E03 | [Weather & seasons](<../study-notes/practical-english/E03 - Weather and Seasons.md>) | Partly |
 | E04 | [Business & workplace English](<../study-notes/practical-english/E04 - Business and Workplace English.md>) | Partly |
 | E05 | [Gen Z slang](<../study-notes/practical-english/E05 - Gen Z Slang - Off-Test.md>) 🚫 | **No — off-test** |
+| E06 | [Travel & hospitality](<../study-notes/practical-english/E06 - Travel and Hospitality.md>) | Yes — Listening Part A |
+| E07 | [Phone & everyday communication](<../study-notes/practical-english/E07 - Phone and Everyday Communication.md>) | Yes — Listening Part A |
+| E08 | [Collocations: do/make/have/take](<../study-notes/practical-english/E08 - Everyday Collocations - do, make, have, take.md>) ⭐ | Yes — Listening/Structure |
 
 ### Vocabulary & reference
 
