@@ -25,10 +25,10 @@ Reading and Listening get one full week each, then Week 4 welds them together un
 
 | Week | Dates | Days | Focus | Primary material | Checkpoint |
 |---|---|---:|---|---|---|
-| [00](<week-00.md>) | Oct 5–11 | 1–7 | Diagnostic + Structure bootcamp | [S01](<../study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>), [S02](<../study-notes/structure/[07-Oct] S02 - Verb Tenses and Time Markers.md>), [S03](<../study-notes/structure/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>) | [Diagnostic](<../hands-on/[05-Oct] Diagnostic Test.md>) → baseline |
-| [01](<week-01.md>) | Oct 12–18 | 8–14 | Structure deep dive | [S04](<../study-notes/structure/[12-Oct] S04 - Noun Clauses and Reported Speech.md>) → [S08](<../study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>) | [Structure Test 01](<../hands-on/[17-Oct] Structure Test 01.md>) ≥ 26/40 |
-| [02](<week-02.md>) | Oct 19–25 | 15–21 | Reading comprehension | [R01](<../study-notes/reading/[19-Oct] R01 - Question Types.md>), [R02](<../study-notes/reading/[20-Oct] R02 - Vocabulary in Context.md>), [R03](<../study-notes/reading/[21-Oct] R03 - Practice Passages.md>) | [Reading Test 01](<../hands-on/[23-Oct] Reading Test 01.md>) ≥ 20/25 |
-| [03](<week-03.md>) | Oct 26–Nov 1 | 22–28 | Listening comprehension | [L01](<../study-notes/listening/[10-Oct] L01 - Part A Strategy.md>), [L02](<../study-notes/listening/[27-Oct] L02 - Idiom Bank.md>), [L03](<../study-notes/listening/[28-Oct] L03 - Parts B and C Note-taking.md>) | **Mock Exam #1** ≥ 520 |
+| [00](<week-00.md>) | Oct 5–11 | 1–7 | Diagnostic + Structure bootcamp | [S01](<../study-notes/structure/S01 - Subject-Verb Agreement.md>), [S02](<../study-notes/structure/S02 - Verb Tenses and Time Markers.md>), [S03](<../study-notes/structure/S03 - Participles, Gerunds and Infinitives.md>) | [Diagnostic](<../hands-on/[05-Oct] Diagnostic Test.md>) → baseline |
+| [01](<week-01.md>) | Oct 12–18 | 8–14 | Structure deep dive | [S04](<../study-notes/structure/S04 - Noun Clauses and Reported Speech.md>) → [S08](<../study-notes/structure/S08 - Word Forms, Articles and Prepositions.md>) | [Structure Test 01](<../hands-on/[17-Oct] Structure Test 01.md>) ≥ 26/40 |
+| [02](<week-02.md>) | Oct 19–25 | 15–21 | Reading comprehension | [R01](<../study-notes/reading/R01 - Question Types.md>), [R02](<../study-notes/reading/R02 - Vocabulary in Context.md>), [R03](<../study-notes/reading/R03 - Practice Passages.md>) | [Reading Test 01](<../hands-on/[23-Oct] Reading Test 01.md>) ≥ 20/25 |
+| [03](<week-03.md>) | Oct 26–Nov 1 | 22–28 | Listening comprehension | [L01](<../study-notes/listening/L01 - Part A Strategy.md>), [L02](<../study-notes/listening/L02 - Idiom Bank.md>), [L03](<../study-notes/listening/L03 - Parts B and C Note-taking.md>) | **Mock Exam #1** ≥ 520 |
 | [04](<week-04.md>) | Nov 2–8 | 29–35 | Integration + 2 full mocks | [Mock protocol](<../hands-on/[31-Oct] Mock Exam Protocol.md>), [error log](<../../progress/error-log.md>) | **Mock Exam #2** ≥ 545 |
 | [05](<week-05.md>) | Nov 9–15 | 36–42 | Taper + exam | [Test-day playbook](<../study-notes/reference/Test Day Playbook.md>) | **550+** |
 
@@ -40,36 +40,49 @@ Reading and Listening get one full week each, then Week 4 welds them together un
 
 | # | Module | The rule | Tested how |
 |---|---|---|---|
-| S01 | [Subject–verb agreement & word order](<../study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>) | find the real subject | both |
-| S02 | [Verb tenses & time markers](<../study-notes/structure/[07-Oct] S02 - Verb Tenses and Time Markers.md>) | let the adverb choose the tense | both |
-| S03 | [Participles, gerunds, infinitives](<../study-notes/structure/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>) | -ed vs -ing, verb + to/-ing | both |
-| S04 | [Noun clauses & reported speech](<../study-notes/structure/[12-Oct] S04 - Noun Clauses and Reported Speech.md>) | that/what/whether + S+V | both |
-| S05 | [Adjective clauses & reductions](<../study-notes/structure/[13-Oct] S05 - Adjective Clauses and Reductions.md>) | who/which/that + reduction | both |
-| S06 | [Adverb clauses, conjunctions, conditionals](<../study-notes/structure/[14-Oct] S06 - Adverb Clauses and Conditionals.md>) | connector + if-types | both |
-| S07 | [Inversion, comparatives, parallelism](<../study-notes/structure/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>) | negative fronting, as…as | both |
-| S08 | [Word forms, articles, prepositions, pronouns](<../study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>) | suffix + determiner errors | **Written Expression** |
+| S01 | [Subject–verb agreement & word order](<../study-notes/structure/S01 - Subject-Verb Agreement.md>) | find the real subject | both |
+| S02 | [Verb tenses & time markers](<../study-notes/structure/S02 - Verb Tenses and Time Markers.md>) | let the adverb choose the tense | both |
+| S03 | [Participles, gerunds, infinitives](<../study-notes/structure/S03 - Participles, Gerunds and Infinitives.md>) | -ed vs -ing, verb + to/-ing | both |
+| S04 | [Noun clauses & reported speech](<../study-notes/structure/S04 - Noun Clauses and Reported Speech.md>) | that/what/whether + S+V | both |
+| S05 | [Adjective clauses & reductions](<../study-notes/structure/S05 - Adjective Clauses and Reductions.md>) | who/which/that + reduction | both |
+| S06 | [Adverb clauses, conjunctions, conditionals](<../study-notes/structure/S06 - Adverb Clauses and Conditionals.md>) | connector + if-types | both |
+| S07 | [Inversion, comparatives, parallelism](<../study-notes/structure/S07 - Inversion, Comparatives and Parallelism.md>) | negative fronting, as…as | both |
+| S08 | [Word forms, articles, prepositions, pronouns](<../study-notes/structure/S08 - Word Forms, Articles and Prepositions.md>) | suffix + determiner errors | **Written Expression** |
 
 ### Listening Comprehension (50 Q / 35 min)
 
 | # | Module |
 |---|---|
-| L01 | [Part A strategy — function & inference](<../study-notes/listening/[10-Oct] L01 - Part A Strategy.md>) |
-| L02 | [Idiom & expression bank](<../study-notes/listening/[27-Oct] L02 - Idiom Bank.md>) |
-| L03 | [Parts B & C — note-taking & lectures](<../study-notes/listening/[28-Oct] L03 - Parts B and C Note-taking.md>) |
-| L04 | [L04   Audio Script Bank](<../study-notes/listening/[24-Oct] L04 - Audio Script Bank.md>) |
+| L01 | [Part A strategy — function & inference](<../study-notes/listening/L01 - Part A Strategy.md>) |
+| L02 | [Idiom & expression bank](<../study-notes/listening/L02 - Idiom Bank.md>) |
+| L03 | [Parts B & C — note-taking & lectures](<../study-notes/listening/L03 - Parts B and C Note-taking.md>) |
+| L04 | [Audio script bank — 6 dialogues for TTS practice](<../study-notes/listening/L04 - Audio Script Bank.md>) |
 
 ### Reading Comprehension (50 Q / 55 min)
 
 | # | Module |
 |---|---|
-| R01 | [The 8 question types & how to attack each](<../study-notes/reading/[19-Oct] R01 - Question Types.md>) |
-| R02 | [Vocabulary in context & word attack](<../study-notes/reading/[20-Oct] R02 - Vocabulary in Context.md>) |
-| R03 | [Practice passages + 25 questions](<../study-notes/reading/[21-Oct] R03 - Practice Passages.md>) |
+| R01 | [The 8 question types & how to attack each](<../study-notes/reading/R01 - Question Types.md>) |
+| R02 | [Vocabulary in context & word attack](<../study-notes/reading/R02 - Vocabulary in Context.md>) |
+| R03 | [Practice passages + 25 questions](<../study-notes/reading/R03 - Practice Passages.md>) |
+
+### Everyday & practical English (E-series) — warm-up material
+
+Read as the 5-min warm-up block, not in place of the core S/L/R modules. Full index:
+[practical-english/README.md](<../study-notes/practical-english/README.md>).
+
+| # | Module | On the ITP? |
+|---|---|---|
+| E01 | [Numbers, decimals & quantities](<../study-notes/practical-english/E01 - Numbers, Decimals and Quantities.md>) ⭐ | Yes — Listening |
+| E02 | [Directions & places](<../study-notes/practical-english/E02 - Directions and Places.md>) ⭐ | Yes — Listening + S08 |
+| E03 | [Weather & seasons](<../study-notes/practical-english/E03 - Weather and Seasons.md>) | Partly |
+| E04 | [Business & workplace English](<../study-notes/practical-english/E04 - Business and Workplace English.md>) | Partly |
+| E05 | [Gen Z slang](<../study-notes/practical-english/E05 - Gen Z Slang - Off-Test.md>) 🚫 | **No — off-test** |
 
 ### Vocabulary & reference
 
-- [Core academic word list](<../study-notes/vocabulary/[20-Oct] Academic Word List.md>) — 240 words in 12 daily sets
-- [Word families & suffixes](<../study-notes/vocabulary/[16-Oct] Word Families.md>) — the cheat code for S08
+- [Core academic word list](<../study-notes/vocabulary/Academic Word List.md>) — 240 words in 12 daily sets
+- [Word families & suffixes](<../study-notes/vocabulary/Word Families.md>) — the cheat code for S08
 - [Score conversion table](<../study-notes/reference/Score Conversion.md>)
 - [Test-day playbook](<../study-notes/reference/Test Day Playbook.md>)
 - [Timing & guessing strategy](<../study-notes/reference/Timing and Guessing.md>)

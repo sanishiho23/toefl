@@ -136,4 +136,4 @@ only if there is time left. An unanswered question is worth 0; a guess is worth 
 
 ---
 
-→ Practice: [R03 passages](<[21-Oct] R03 - Practice Passages.md>) · [Reading Test 01](<../../hands-on/[23-Oct] Reading Test 01.md>)
+→ Practice: [R03 passages](<R03 - Practice Passages.md>) · [Reading Test 01](<../../hands-on/[23-Oct] Reading Test 01.md>)

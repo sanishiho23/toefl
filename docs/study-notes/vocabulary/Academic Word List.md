@@ -177,4 +177,4 @@
 - **Day 0:** read the 20, write word + meaning + your own sentence.
 - **Day 1, 2, 7, 21:** cover the meaning column, recall, tick.
 - Any word you miss three times goes into [flashcards](<../../../progress/error-log.md>) review.
-- Don't study these in isolation — you'll meet them again in [word families](<[16-Oct] Word Families.md>).
+- Don't study these in isolation — you'll meet them again in [word families](<Word Families.md>).

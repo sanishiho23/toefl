@@ -12,7 +12,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 ## D15
 **Mon 19 Oct · R01 — The 8 question types** · 100 min
 
-- **Material:** [R01   Question Types](<../study-notes/reading/[19-Oct] R01 - Question Types.md>)
+- **Material:** [R01   Question Types](<../study-notes/reading/R01 - Question Types.md>)
 - **Log:** `docs/logs/daily/week-02/19-10-2026.md`
 
 | Block | Min | Task |
@@ -34,8 +34,8 @@ pronoun reference → inference → main idea → tone/purpose → insert-a-sent
 ## D16
 **Tue 20 Oct · R02 — Vocabulary in context + word attack** · 100 min
 
-- **Material:** [R02   Vocabulary in Context](<../study-notes/reading/[20-Oct] R02 - Vocabulary in Context.md>)
-  + [academic word list](<../study-notes/vocabulary/[20-Oct] Academic Word List.md>) sets 1–2 (words 1–40)
+- **Material:** [R02   Vocabulary in Context](<../study-notes/reading/R02 - Vocabulary in Context.md>)
+  + [academic word list](<../study-notes/vocabulary/Academic Word List.md>) sets 1–2 (words 1–40)
 - **Log:** `docs/logs/daily/week-02/20-10-2026.md`
 
 | Block | Min | Task |
@@ -54,7 +54,7 @@ pronoun reference → inference → main idea → tone/purpose → insert-a-sent
 ## D17
 **Wed 21 Oct · Practice passages 1–2** · 100 min
 
-- **Material:** [R03   Practice Passages](<../study-notes/reading/[21-Oct] R03 - Practice Passages.md>) — Passage 1 & 2
+- **Material:** [R03   Practice Passages](<../study-notes/reading/R03 - Practice Passages.md>) — Passage 1 & 2
 - **Log:** `docs/logs/daily/week-02/21-10-2026.md`
 
 | Block | Min | Task |
@@ -73,8 +73,8 @@ pronoun reference → inference → main idea → tone/purpose → insert-a-sent
 ## D18
 **Thu 22 Oct · The two hard types — inference & NOT/EXCEPT** · 100 min
 
-- **Material:** [R01   Question Types](<../study-notes/reading/[19-Oct] R01 - Question Types.md>) § 4 & § 5
-  + Passage 3 from [r03](<../study-notes/reading/[21-Oct] R03 - Practice Passages.md>)
+- **Material:** [R01   Question Types](<../study-notes/reading/R01 - Question Types.md>) § 4 & § 5
+  + Passage 3 from [r03](<../study-notes/reading/R03 - Practice Passages.md>)
 - **Log:** `docs/logs/daily/week-02/22-10-2026.md`
 
 | Block | Min | Task |
@@ -121,7 +121,7 @@ pronoun reference → inference → main idea → tone/purpose → insert-a-sent
 ## D20
 **Sat 24 Oct · Structure maintenance + vocabulary sets 3–4** · 100 min
 
-- **Materials:** your Week 01 weakest module + [AWL](<../study-notes/vocabulary/[20-Oct] Academic Word List.md>) sets 3–4 (words 41–80)
+- **Materials:** your Week 01 weakest module + [AWL](<../study-notes/vocabulary/Academic Word List.md>) sets 3–4 (words 41–80)
 - **Log:** `docs/logs/daily/week-02/24-10-2026.md`
 
 | Block | Min | Task |

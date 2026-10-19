@@ -26,7 +26,7 @@ How the pieces of this repository fit together, and the conventions they follow.
 
 **File naming**
 
-- Study notes and tests: `[DD-Mon] Name.md` — e.g. `[06-Oct] S01 - Subject-Verb Agreement.md`.
+- Study notes and tests: `[DD-Mon] Name.md` — e.g. `S01 - Subject-Verb Agreement.md`.
   The bracketed date is the day the material is scheduled, so the folder reads as a timeline.
 - Daily logs: `DD-MM-YYYY.md` inside `docs/logs/daily/week-NN/`.
 - Weekly reports: `YYYY-MM-DD-to-YYYY-MM-DD.md`.

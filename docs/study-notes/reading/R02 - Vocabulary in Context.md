@@ -93,8 +93,8 @@ Own word: *weak / thin*. → **B**. (All four could describe an argument.)
 
 ## Part 5 — Word attack: suffixes
 
-See the full table in [S08](<../structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>) § 1 and
-[Word Families](<../vocabulary/[16-Oct] Word Families.md>).
+See the full table in [S08](<../structure/S08 - Word Forms, Articles and Prepositions.md>) § 1 and
+[Word Families](<../vocabulary/Word Families.md>).
 
 ---
 
@@ -102,7 +102,7 @@ See the full table in [S08](<../structure/[16-Oct] S08 - Word Forms, Articles an
 
 | Min | Task |
 |---:|---|
-| 5 | 20 new words from [Academic Word List](<../vocabulary/[20-Oct] Academic Word List.md>). Word + definition + your own sentence. |
+| 5 | 20 new words from [Academic Word List](<../vocabulary/Academic Word List.md>). Word + definition + your own sentence. |
 | 5 | Review yesterday's 20. |
 | 5 | Review the 20 from two days ago (spaced repetition day 2). |
 | 5 | Review the 20 from seven days ago (spaced repetition day 7). |
@@ -122,4 +122,4 @@ Learn these; they decide tone questions and inference questions.
 
 ---
 
-→ Next: [R03 practice passages](<[21-Oct] R03 - Practice Passages.md>)
+→ Next: [R03 practice passages](<R03 - Practice Passages.md>)

@@ -91,7 +91,7 @@ English hides negatives in positive-looking sentences. About 3–5 Part A questi
 
 ## Practice menu
 
-- [L02 Idiom bank](<[27-Oct] L02 - Idiom Bank.md>) — the vocabulary behind type 1
-- [L04 Audio script bank](<[24-Oct] L04 - Audio Script Bank.md>) — 6 dialogues for TTS practice
+- [L02 Idiom bank](<L02 - Idiom Bank.md>) — the vocabulary behind type 1
+- [L04 Audio script bank](<L04 - Audio Script Bank.md>) — 6 dialogues for TTS practice
 - [Section test: listening](<../../hands-on/[29-Oct] Listening Test 01.md>)
 - [ETS official Level 1 Listening samples](https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_itp/test_preparation/sample_questions/level1_section1_listening_comprehension.html)

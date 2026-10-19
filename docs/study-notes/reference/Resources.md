@@ -29,7 +29,7 @@ Because TOEFL ITP audio plays **once**, you need material you can play once and 
 | Source | Notes |
 |---|---|
 | ETS official samples (above) | Highest fidelity to the real test |
-| [L04 script bank](<../listening/[24-Oct] L04 - Audio Script Bank.md>) in this repo | Feed to any TTS app at ~150 wpm |
+| [L04 script bank](<../listening/L04 - Audio Script Bank.md>) in this repo | Feed to any TTS app at ~150 wpm |
 | Your phone's built-in screen reader / TTS | Easiest zero-setup option for scripts |
 | VOA Learning English | Slower, clear American English — good for building stamina early |
 | BBC Learning English / 6 Minute English | British accents, good for accent flexibility |
@@ -52,7 +52,7 @@ Look up a rule only when you get an item wrong twice — don't read these as tex
 
 ## Vocabulary
 
-- Academic Word List (Coxhead) — the source of [our list](<../vocabulary/[20-Oct] Academic Word List.md>)
+- Academic Word List (Coxhead) — the source of [our list](<../vocabulary/Academic Word List.md>)
 - Any spaced-repetition app (Anki, or paper cards). **Paper is fine and often better** —
   writing the word engages more than tapping.
 

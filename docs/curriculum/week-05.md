@@ -11,7 +11,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 ## D36
 **Mon 9 Nov · Light structure review** · 60 min
 
-- **Material:** [s01](<../study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>) → [s08](<../study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>), skim only
+- **Material:** [s01](<../study-notes/structure/S01 - Subject-Verb Agreement.md>) → [s08](<../study-notes/structure/S08 - Word Forms, Articles and Prepositions.md>), skim only
 - **Log:** `docs/logs/daily/week-05/09-11-2026.md`
 
 | Block | Min | Task |
@@ -46,7 +46,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 
 | Block | Min | Task |
 |---|---:|---|
-| Audio | 20 | One lecture from the [script bank](<../study-notes/listening/[24-Oct] L04 - Audio Script Bank.md>). Easy. |
+| Audio | 20 | One lecture from the [script bank](<../study-notes/listening/L04 - Audio Script Bank.md>). Easy. |
 | Logistics | 20 | Pack the bag. Lay out clothes. Check the route and the travel time. |
 | Stop | 5 | |
 

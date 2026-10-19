@@ -55,9 +55,9 @@ A recorded baseline and three grammar rules at 80% accuracy or better.
 ### Deliverables
 
 - [ ] [Diagnostic test scored](<hands-on/[05-Oct] Diagnostic Test.md>) **[Deadline: Oct 5]**
-- [ ] [S01 — Subject-Verb Agreement](<study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>) **[Deadline: Oct 6]**
-- [ ] [S02 — Verb Tenses](<study-notes/structure/[07-Oct] S02 - Verb Tenses and Time Markers.md>) **[Deadline: Oct 7]**
-- [ ] [S03 — Participles, Gerunds, Infinitives](<study-notes/structure/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>) **[Deadline: Oct 9]**
+- [ ] [S01 — Subject-Verb Agreement](<study-notes/structure/S01 - Subject-Verb Agreement.md>) **[Deadline: Oct 6]**
+- [ ] [S02 — Verb Tenses](<study-notes/structure/S02 - Verb Tenses and Time Markers.md>) **[Deadline: Oct 7]**
+- [ ] [S03 — Participles, Gerunds, Infinitives](<study-notes/structure/S03 - Participles, Gerunds and Infinitives.md>) **[Deadline: Oct 9]**
 - [ ] [Weekly report 0](<logs/weekly/2026-10-05-to-2026-10-11.md>) **[Deadline: Oct 11]**
 
 ---
@@ -89,11 +89,11 @@ Finish the grammar code so that any Section 2 item can be named in about five se
 
 ### Deliverables
 
-- [ ] [S04 — Noun Clauses](<study-notes/structure/[12-Oct] S04 - Noun Clauses and Reported Speech.md>) **[Deadline: Oct 12]**
-- [ ] [S05 — Adjective Clauses](<study-notes/structure/[13-Oct] S05 - Adjective Clauses and Reductions.md>) **[Deadline: Oct 13]**
-- [ ] [S06 — Adverb Clauses & Conditionals](<study-notes/structure/[14-Oct] S06 - Adverb Clauses and Conditionals.md>) **[Deadline: Oct 14]**
-- [ ] [S07 — Inversion, Comparatives, Parallelism](<study-notes/structure/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>) **[Deadline: Oct 15]**
-- [ ] [S08 — Word Forms, Articles, Prepositions](<study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>) **[Deadline: Oct 16]**
+- [ ] [S04 — Noun Clauses](<study-notes/structure/S04 - Noun Clauses and Reported Speech.md>) **[Deadline: Oct 12]**
+- [ ] [S05 — Adjective Clauses](<study-notes/structure/S05 - Adjective Clauses and Reductions.md>) **[Deadline: Oct 13]**
+- [ ] [S06 — Adverb Clauses & Conditionals](<study-notes/structure/S06 - Adverb Clauses and Conditionals.md>) **[Deadline: Oct 14]**
+- [ ] [S07 — Inversion, Comparatives, Parallelism](<study-notes/structure/S07 - Inversion, Comparatives and Parallelism.md>) **[Deadline: Oct 15]**
+- [ ] [S08 — Word Forms, Articles, Prepositions](<study-notes/structure/S08 - Word Forms, Articles and Prepositions.md>) **[Deadline: Oct 16]**
 - [ ] [Structure Test 01](<hands-on/[17-Oct] Structure Test 01.md>) **[Deadline: Oct 17]**
 
 ---
@@ -126,9 +126,9 @@ Stop reading like a novel; read like a search engine, at 66 seconds per question
 
 ### Deliverables
 
-- [ ] [R01 — Question Types](<study-notes/reading/[19-Oct] R01 - Question Types.md>) **[Deadline: Oct 19]**
-- [ ] [R02 — Vocabulary in Context](<study-notes/reading/[20-Oct] R02 - Vocabulary in Context.md>) **[Deadline: Oct 20]**
-- [ ] [R03 — Practice Passages](<study-notes/reading/[21-Oct] R03 - Practice Passages.md>) **[Deadline: Oct 21]**
+- [ ] [R01 — Question Types](<study-notes/reading/R01 - Question Types.md>) **[Deadline: Oct 19]**
+- [ ] [R02 — Vocabulary in Context](<study-notes/reading/R02 - Vocabulary in Context.md>) **[Deadline: Oct 20]**
+- [ ] [R03 — Practice Passages](<study-notes/reading/R03 - Practice Passages.md>) **[Deadline: Oct 21]**
 - [ ] [Reading Test 01](<hands-on/[23-Oct] Reading Test 01.md>) **[Deadline: Oct 23]**
 
 ---
@@ -159,9 +159,9 @@ Build the single-pass listening reflex, then survive a full 115-minute sitting.
 
 ### Deliverables
 
-- [ ] [L01 — Part A Strategy](<study-notes/listening/[10-Oct] L01 - Part A Strategy.md>) **[Deadline: Oct 26]**
-- [ ] [L02 — Idiom Bank](<study-notes/listening/[27-Oct] L02 - Idiom Bank.md>) **[Deadline: Oct 27]**
-- [ ] [L03 — Parts B & C Note-taking](<study-notes/listening/[28-Oct] L03 - Parts B and C Note-taking.md>) **[Deadline: Oct 28]**
+- [ ] [L01 — Part A Strategy](<study-notes/listening/L01 - Part A Strategy.md>) **[Deadline: Oct 26]**
+- [ ] [L02 — Idiom Bank](<study-notes/listening/L02 - Idiom Bank.md>) **[Deadline: Oct 27]**
+- [ ] [L03 — Parts B & C Note-taking](<study-notes/listening/L03 - Parts B and C Note-taking.md>) **[Deadline: Oct 28]**
 - [ ] [Listening Test 01](<hands-on/[29-Oct] Listening Test 01.md>) **[Deadline: Oct 29]**
 - [ ] [Mock Exam Protocol](<hands-on/[31-Oct] Mock Exam Protocol.md>) **[Deadline: Oct 31]**
 - [ ] Week 04 retarget list **[Deadline: Nov 1]**

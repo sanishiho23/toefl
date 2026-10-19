@@ -12,7 +12,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 ## D22
 **Mon 26 Oct · L01 — Part A strategy (30 short dialogues)** · 100 min
 
-- **Material:** [L01   Part A Strategy](<../study-notes/listening/[10-Oct] L01 - Part A Strategy.md>)
+- **Material:** [L01   Part A Strategy](<../study-notes/listening/L01 - Part A Strategy.md>)
 - **Log:** `docs/logs/daily/week-03/26-10-2026.md`
 
 | Block | Min | Task |
@@ -35,7 +35,7 @@ surprised / agreeing / hedging).
 ## D23
 **Tue 27 Oct · L02 — Idiom bank, sets 2–3** · 100 min
 
-- **Material:** [L02   Idiom Bank](<../study-notes/listening/[27-Oct] L02 - Idiom Bank.md>) items 41–120
+- **Material:** [L02   Idiom Bank](<../study-notes/listening/L02 - Idiom Bank.md>) items 41–120
 - **Log:** `docs/logs/daily/week-03/27-10-2026.md`
 
 | Block | Min | Task |
@@ -54,14 +54,14 @@ surprised / agreeing / hedging).
 ## D24
 **Wed 28 Oct · L03 — Parts B & C, note-taking** · 100 min
 
-- **Material:** [L03   Parts B and C Note taking](<../study-notes/listening/[28-Oct] L03 - Parts B and C Note-taking.md>)
+- **Material:** [L03   Parts B and C Note taking](<../study-notes/listening/L03 - Parts B and C Note-taking.md>)
 - **Log:** `docs/logs/daily/week-03/28-10-2026.md`
 
 | Block | Min | Task |
 |---|---:|---|
 | Warm-up | 5 | 20 flashcards. |
 | Instruction | 30 | Read L03. Learn the column-note layout. Listen for *structure words*: first, however, three reasons, for example. |
-| Practice | 30 | Two lectures from the [script bank](<../study-notes/listening/[24-Oct] L04 - Audio Script Bank.md>). Have someone read them, or use TTS. One pass. |
+| Practice | 30 | Two lectures from the [script bank](<../study-notes/listening/L04 - Audio Script Bank.md>). Have someone read them, or use TTS. One pass. |
 | Error review | 30 | Error log. |
 | Commit | 5 | |
 

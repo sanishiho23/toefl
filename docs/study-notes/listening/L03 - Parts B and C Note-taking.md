@@ -85,7 +85,7 @@ These words tell you a new section is starting, which is exactly where questions
 
 | Min | Task |
 |---:|---|
-| 3 | Pick one script from [L04](<[24-Oct] L04 - Audio Script Bank.md>). Don't read it. |
+| 3 | Pick one script from [L04](<L04 - Audio Script Bank.md>). Don't read it. |
 | 3 | Play it once (TTS or a reader). Take notes. No pausing. |
 | 5 | Answer the questions from notes only. |
 | 5 | Read the script. Mark where each answer was hidden. |

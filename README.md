@@ -31,29 +31,37 @@
 
 Structure & Written Expression (priority)
 
-- [ ] [S01 — Subject-verb agreement and word order](<./docs/study-notes/structure/[06-Oct] S01 - Subject-Verb Agreement.md>)
-- [ ] [S02 — Verb tenses and time markers](<./docs/study-notes/structure/[07-Oct] S02 - Verb Tenses and Time Markers.md>)
-- [ ] [S03 — Participles, gerunds and infinitives](<./docs/study-notes/structure/[09-Oct] S03 - Participles, Gerunds and Infinitives.md>)
-- [ ] [S04 — Noun clauses and reported speech](<./docs/study-notes/structure/[12-Oct] S04 - Noun Clauses and Reported Speech.md>)
-- [ ] [S05 — Adjective clauses and reductions](<./docs/study-notes/structure/[13-Oct] S05 - Adjective Clauses and Reductions.md>)
-- [ ] [S06 — Adverb clauses and conditionals](<./docs/study-notes/structure/[14-Oct] S06 - Adverb Clauses and Conditionals.md>)
-- [ ] [S07 — Inversion, comparatives and parallelism](<./docs/study-notes/structure/[15-Oct] S07 - Inversion, Comparatives and Parallelism.md>)
-- [ ] [S08 — Word forms, articles and prepositions](<./docs/study-notes/structure/[16-Oct] S08 - Word Forms, Articles and Prepositions.md>)
+- [ ] [S01 — Subject-verb agreement and word order](<./docs/study-notes/structure/S01 - Subject-Verb Agreement.md>)
+- [ ] [S02 — Verb tenses and time markers](<./docs/study-notes/structure/S02 - Verb Tenses and Time Markers.md>)
+- [ ] [S03 — Participles, gerunds and infinitives](<./docs/study-notes/structure/S03 - Participles, Gerunds and Infinitives.md>)
+- [ ] [S04 — Noun clauses and reported speech](<./docs/study-notes/structure/S04 - Noun Clauses and Reported Speech.md>)
+- [ ] [S05 — Adjective clauses and reductions](<./docs/study-notes/structure/S05 - Adjective Clauses and Reductions.md>)
+- [ ] [S06 — Adverb clauses and conditionals](<./docs/study-notes/structure/S06 - Adverb Clauses and Conditionals.md>)
+- [ ] [S07 — Inversion, comparatives and parallelism](<./docs/study-notes/structure/S07 - Inversion, Comparatives and Parallelism.md>)
+- [ ] [S08 — Word forms, articles and prepositions](<./docs/study-notes/structure/S08 - Word Forms, Articles and Prepositions.md>)
 
 Listening
 
-- [ ] [L01 — Part A strategy](<./docs/study-notes/listening/[10-Oct] L01 - Part A Strategy.md>)
-- [ ] [L02 — Idiom bank (120 items)](<./docs/study-notes/listening/[27-Oct] L02 - Idiom Bank.md>)
-- [ ] [L03 — Parts B and C, note-taking](<./docs/study-notes/listening/[28-Oct] L03 - Parts B and C Note-taking.md>)
-- [ ] [L04 — Audio script bank](<./docs/study-notes/listening/[24-Oct] L04 - Audio Script Bank.md>)
+- [ ] [L01 — Part A strategy](<./docs/study-notes/listening/L01 - Part A Strategy.md>)
+- [ ] [L02 — Idiom bank (120 items)](<./docs/study-notes/listening/L02 - Idiom Bank.md>)
+- [ ] [L03 — Parts B and C, note-taking](<./docs/study-notes/listening/L03 - Parts B and C Note-taking.md>)
+- [ ] [L04 — Audio script bank](<./docs/study-notes/listening/L04 - Audio Script Bank.md>)
 
 Reading and vocabulary
 
-- [ ] [R01 — The 8 question types](<./docs/study-notes/reading/[19-Oct] R01 - Question Types.md>)
-- [ ] [R02 — Vocabulary in context](<./docs/study-notes/reading/[20-Oct] R02 - Vocabulary in Context.md>)
-- [ ] [R03 — Practice passages](<./docs/study-notes/reading/[21-Oct] R03 - Practice Passages.md>)
-- [ ] [Academic word list (240 words)](<./docs/study-notes/vocabulary/[20-Oct] Academic Word List.md>)
-- [ ] [Word families](<./docs/study-notes/vocabulary/[16-Oct] Word Families.md>)
+- [ ] [R01 — The 8 question types](<./docs/study-notes/reading/R01 - Question Types.md>)
+- [ ] [R02 — Vocabulary in context](<./docs/study-notes/reading/R02 - Vocabulary in Context.md>)
+- [ ] [R03 — Practice passages](<./docs/study-notes/reading/R03 - Practice Passages.md>)
+- [ ] [Academic word list (240 words)](<./docs/study-notes/vocabulary/Academic Word List.md>)
+- [ ] [Word families](<./docs/study-notes/vocabulary/Word Families.md>)
+
+Everyday & practical English ([E-series index](<./docs/study-notes/practical-english/README.md>))
+
+- [ ] [E01 — Numbers, decimals and quantities](<./docs/study-notes/practical-english/E01 - Numbers, Decimals and Quantities.md>) ⭐
+- [ ] [E02 — Directions and places](<./docs/study-notes/practical-english/E02 - Directions and Places.md>) ⭐
+- [ ] [E03 — Weather and seasons](<./docs/study-notes/practical-english/E03 - Weather and Seasons.md>)
+- [ ] [E04 — Business and workplace English](<./docs/study-notes/practical-english/E04 - Business and Workplace English.md>)
+- [ ] [E05 — Gen Z slang (off-test, general English)](<./docs/study-notes/practical-english/E05 - Gen Z Slang - Off-Test.md>) 🚫
 
 Reference
 
@@ -94,7 +102,8 @@ Reference
 | `Daily-Logs.md` | master journal, reverse chronological, weekly blocks |
 | `docs/Goals-Summary.md` | the study plan — weekly objectives, topics, deadlines |
 | `docs/curriculum/` | 6 week plans, each holding 7 daily lesson plans |
-| `docs/study-notes/` | grammar, listening, reading, vocabulary, reference |
+| `docs/study-notes/` | grammar, listening, reading, vocabulary, practical-english, reference |
+| `docs/study-notes/practical-english/` | everyday-English warm-ups: numbers, directions, weather, business, slang (E-series) |
 | `docs/hands-on/` | practice tests and the mock exam protocol |
 | `docs/logs/daily/week-NN/` | 42 daily entries, `DD-MM-YYYY.md` |
 | `docs/logs/weekly/` | weekly reports |
@@ -114,6 +123,11 @@ Source: [ETS — TOEFL ITP Test Content](https://www.ets.org/toefl/itp/test-cont
 | Structure & Written Expression | 40 | 25 min | 31–68 | ~15 fill-in-the-blank + ~25 error-finding |
 | Reading Comprehension | 50 | 55 min | 31–67 | 5–6 passages, ~10 questions each |
 | **TOTAL** | **140** | **115 min** | **310–677** | Paper or digital, all multiple choice |
+
+> **Digital ITP note:** the three sections above are unchanged across paper and digital. The
+> **digital** TOEFL ITP Level 1 additionally offers an **optional Speaking test** (4 tasks,
+> ~15 min) that some institutions switch on. It does **not** count toward the 310–677 score.
+> Confirm with your test centre whether your sitting includes it. ([ETS test content](https://www.ets.org/toefl/itp/test-content.html))
 
 **Score arithmetic (exact):** `Total = round((Listening + Structure + Reading) × 10 / 3)`.
 So **550 needs the three section scores to add to 165** — e.g. L 54 + S 57 + R 54.

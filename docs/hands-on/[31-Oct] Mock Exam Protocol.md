@@ -65,7 +65,7 @@ Run this on **Day 27 (Sat 31 Oct)** and **Day 32 (Thu 5 Nov)**. Do not improvise
 | S07 inversion/comparative | | | |
 | S08 word form/article/prep | | | |
 
-### C. Per-type table (Reading) — use [R01](<../study-notes/reading/[19-Oct] R01 - Question Types.md>)
+### C. Per-type table (Reading) — use [R01](<../study-notes/reading/R01 - Question Types.md>)
 
 | Type | Right | Total | % |
 |---|---:|---:|---|

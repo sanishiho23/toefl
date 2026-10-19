@@ -32,7 +32,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 **Tue 3 Nov · Reading under pressure — double set** · 100 min
 
 - **Material:** [Reading Test 01](<../hands-on/[23-Oct] Reading Test 01.md>)
-  + [r03 passages](<../study-notes/reading/[21-Oct] R03 - Practice Passages.md>)
+  + [r03 passages](<../study-notes/reading/R03 - Practice Passages.md>)
 - **Log:** `docs/logs/daily/week-04/03-11-2026.md`
 
 | Block | Min | Task |
@@ -50,7 +50,7 @@ Back to [curriculum README](<README.md>) · [repo README](<../../README.md>)
 ## D31
 **Wed 4 Nov · Listening under pressure — double set + structure sprint** · 100 min
 
-- **Material:** [script bank](<../study-notes/listening/[24-Oct] L04 - Audio Script Bank.md>), [structure test 01](<../hands-on/[17-Oct] Structure Test 01.md>)
+- **Material:** [script bank](<../study-notes/listening/L04 - Audio Script Bank.md>), [structure test 01](<../hands-on/[17-Oct] Structure Test 01.md>)
 - **Log:** `docs/logs/daily/week-04/04-11-2026.md`
 
 | Block | Min | Task |

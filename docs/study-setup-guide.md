@@ -32,7 +32,7 @@ of replaying it.
 | Option | Setup |
 |---|---|
 | **Best** | [ETS official Level 1 listening samples](https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_itp/test_preparation/sample_questions/level1_section1_listening_comprehension.html) |
-| **Script bank** | Paste a script from [L04 — Audio Script Bank](<./study-notes/listening/[24-Oct] L04 - Audio Script Bank.md>) into any TTS app and play at ~150 wpm |
+| **Script bank** | Paste a script from [L04 — Audio Script Bank](<./study-notes/listening/L04 - Audio Script Bank.md>) into any TTS app and play at ~150 wpm |
 | **Windows** | Settings → Accessibility → Narrator, or PowerShell `Add-Type -AssemblyName System.Speech` |
 | **Human reader** | Ask someone to read the script aloud once. Do not let them repeat. |
 
@@ -45,8 +45,8 @@ Paper is fine and often better — writing engages more than tapping. You need t
 | Deck | Contents | Built on |
 |---|---|---|
 | Grammar | the S01–S08 rules that you actually miss | as you go |
-| Word families | `decide / decision / decisive / decisively` | [Word Families](<./study-notes/vocabulary/[16-Oct] Word Families.md>) |
-| Idioms | 120 expressions, plain-English gloss | [Idiom Bank](<./study-notes/listening/[27-Oct] L02 - Idiom Bank.md>) |
+| Word families | `decide / decision / decisive / decisively` | [Word Families](<./study-notes/vocabulary/Word Families.md>) |
+| Idioms | 120 expressions, plain-English gloss | [Idiom Bank](<./study-notes/listening/L02 - Idiom Bank.md>) |
 
 Spaced repetition schedule: every card is seen on day 0, 1, 2, 7, 21. That is enough for
 recognition-level knowledge, which is all the test requires.

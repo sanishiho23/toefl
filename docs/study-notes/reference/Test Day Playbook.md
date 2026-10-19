@@ -72,7 +72,7 @@ extreme* and move on. Extreme options (*impossible, never, always, furious*) are
 |---|---|
 | **66 seconds per question** | Roughly 11 minutes per passage |
 | Read the passage once, properly | Skimming costs more in re-reading than it saves |
-| Attack in the [question-type order](<../reading/[19-Oct] R01 - Question Types.md>) | Cheap points first |
+| Attack in the [question-type order](<../reading/R01 - Question Types.md>) | Cheap points first |
 | Write "NOT" big when you see *EXCEPT* | Cheapest lost points on the test |
 | Watch the clock at 30 min | You must be past question 25 |
 | **Never leave a bubble empty** | No guessing penalty |

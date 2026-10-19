@@ -74,7 +74,7 @@ You can't speed up the audio, but you *can* control two things:
 | Min | Task |
 |---:|---|
 | 0:00–3:30 | Read the passage once, at a steady pace. Underline topic sentences. |
-| 3:30–9:00 | Answer in [type order](<../reading/[19-Oct] R01 - Question Types.md>): vocab → detail → NOT/EXCEPT → reference → inference → main idea → tone → insert |
+| 3:30–9:00 | Answer in [type order](<../reading/R01 - Question Types.md>): vocab → detail → NOT/EXCEPT → reference → inference → main idea → tone → insert |
 | 9:00–11:00 | Bubble check + the two questions you skipped |
 
 If a passage is unusually hard, **don't** spend 15 minutes on it. Cap at 13, guess the rest, and

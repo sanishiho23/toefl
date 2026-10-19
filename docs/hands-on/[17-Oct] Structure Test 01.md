@@ -150,4 +150,4 @@ sentence to be correct. If there is no error, choose **(E) No error**.
 
 > S08 carries 9 of the 40 questions — more than any other module. That is deliberate and it
 > matches the real test. If S08 is your lowest module, spend Day 29 entirely on
-> [word families](<../study-notes/vocabulary/[16-Oct] Word Families.md>).
+> [word families](<../study-notes/vocabulary/Word Families.md>).
