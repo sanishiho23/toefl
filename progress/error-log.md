@@ -40,6 +40,9 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-07 | S02 ex #3 | `S02` — future passive | Chose **C** (*will have considered*) — missed passive voice. | *proposals* receive the action → passive required → **will be considered** (B). |
 | 2026-10-07 | S02 ex #5 | `S02` — past perfect progressive | Chose **B** (*have studied*) — ignored *rang* (past). | Duration up to a past point → **had been studying** (C). |
 | 2026-10-07 | S02 ex #8 | `S02` — future perfect progressive | Chose **C** (*will be managing*) — *by next December* + duration not linked. | *by* + future time + *for* duration → **will have been managing** (B). |
+| 2026-10-19 | E01 ex #2 | `E01-num` big number | Heard *point five million* as 3.4M. | *point five* = .5 → **3,500,000**. |
+| 2026-10-19 | E01 ex #9 | `E01-price` spoken price | Read *twelve fifty* as 1,250. | price *twelve fifty* = **$12.50**; 1,250 = *one thousand two hundred fifty*. |
+| 2026-10-19 | E01 ex #14 | `E01-phone` digit "0" | Wrote the digits "00". | a single 0 in a number is said **"oh"** (or "zero"), never doubled. |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 
@@ -103,6 +106,10 @@ Clean: main idea (2/2), inference (1/1), NOT/EXCEPT (1/1), reference (2/2), tone
 **Reading (R01–R03)**
 - `R-main` · `R-detail` · `R-infer` · `R-except` · `R-vocab` · `R-ref` · `R-tone` · `R-insert`
 - `R-time` ran out of time · `R-misread` misread the stem
+
+**Everyday / practical English (E01–E08)**
+- `E01-num` big number · `E01-dec` decimal/fraction · `E01-price` price · `E01-phone` phone/digit · `E01-teen` -teen vs -ty
+- `E02-place` place preposition · `E02-dir` direction · `E03-weather` · `E04-biz` business word · `E06-service` service phrase · `E07-phone` phone/comms · `E08-coll` do/make/have/take
 
 **Cross-cutting**
 - `T-time` timing · `T-guess` left blank / bad guess · `T-focus` attention drift

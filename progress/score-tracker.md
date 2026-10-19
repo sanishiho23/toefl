@@ -63,7 +63,7 @@ direction, not a prediction.
 |---|---|---:|---:|---:|---:|---:|---|
 | 00 | Oct 5–11 | 3.5 | 3/7 | 92% (S01 ex), 58% (S02 ex) | — | — | S01 11/12, S02 7/12; diagnostic S 10/15, R 12/15 |
 | 01 | Oct 12–18 | | /7 | | | | |
-| 02 | Oct 19–25 | | /7 | | | | |
+| 02 | Oct 19–25 | | /7 | | | | E01 warm-up 17/20 (85%) — misses: big number, spoken price, digit "oh" |
 | 03 | Oct 26–Nov 1 | | /7 | | | | |
 | 04 | Nov 2–8 | | /7 | | | | |
 | 05 | Nov 9–15 | | /7 | | | | |
