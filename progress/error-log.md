@@ -45,6 +45,8 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-19 | E01 ex #14 | `E01-phone` digit "0" | Wrote the digits "00". | a single 0 in a number is said **"oh"** (or "zero"), never doubled. |
 | 2026-10-24 | E03 ex #6 | `E03` — season collocation | Wrote *rainy seasons* (plural) instead of *rainy season*. | The fixed phrase is *the rainy season* (singular). Learn as a chunk. |
 | 2026-10-24 | E06 ex #8 | `E06` — register (greeting vs leaving) | Chose *good evening* for a leaving scenario. | *Good evening* = greeting; *Good night* = leaving/bed. Match function, not time. |
+| 2026-10-24 | E04 ex #8 | `E04` — idiom spelling | Wrote *ballpack* instead of *ballpark*. | *Ballpark figure* = rough estimate. Spell it like the sports field: **ballpark**. |
+| 2026-10-24 | E04 ex #9 | `E04` — accounting idiom | Chose *white* instead of *black*. | *In the black* = profitable (positive numbers written in black ink). *In the red* = losing. |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 

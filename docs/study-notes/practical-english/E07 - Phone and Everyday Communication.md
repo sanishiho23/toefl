@@ -102,6 +102,6 @@ subjects and use abbreviations. For the test and any formal writing, always use 
 | 7 | work | 15 | *Could you call me back when you're free?* |
 | 8 | sum up | | |
 
-**Score:** ___ / 15 · Target ≥ 12.
+**Score:** 10 / 10 (Q1–10) · Target ≥ 9/10 for multiple-choice. Full exercise = 15 items (Q11–15 are open production).
 
 → Business-register phrases carry over to [E04](<E04 - Business and Workplace English.md>).

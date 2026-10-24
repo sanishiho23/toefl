@@ -103,6 +103,6 @@ contract, sector, revenue* — are business words).
 | 7 | merger | 15 | *We're running at a loss this quarter.* |
 | 8 | ballpark | | |
 
-**Score:** ___ / 15 · Target ≥ 12.
+**Score:** 13 / 15 · Target ≥ 12.
 
 → Business words that are also on the [Academic Word List](<../vocabulary/Academic Word List.md>) count double — prioritise them.

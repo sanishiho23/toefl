@@ -121,7 +121,9 @@ Status key: 🔴 < 60% · 🟡 60–79% · 🟢 ≥ 80%
 |---|---:|---:|---|:---|
 | E01 Numbers, Decimals and Quantities | 17/20 (85%) | ≥ 16/20 | 2026-10-19 | 🟢 |
 | E03 Weather and Seasons | 11/12 (92%) | ≥ 10/12 | 2026-10-24 | 🟢 |
+| E04 Business and Workplace English | 13/15 (87%) | ≥ 12/15 | 2026-10-24 | 🟢 |
 | E06 Travel and Hospitality | 9/10 (90%) | ≥ 9/10 | 2026-10-24 | 🟢 |
+| E07 Phone and Everyday Communication | 10/10 (100%) | ≥ 9/10 | 2026-10-24 | 🟢 |
 
 ---
 
