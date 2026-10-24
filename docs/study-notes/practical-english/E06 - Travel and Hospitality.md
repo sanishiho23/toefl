@@ -109,7 +109,7 @@ When you spell a name on the phone or at a counter, native speakers use "A as in
 | 7 | allergic to | 15 | *Could we pay separately?* |
 | 8 | Good night | | |
 
-**Score:** ___ / 15 · Target ≥ 12.
+**Score:** 9 / 10 (Q1–10) · Target ≥ 9/10 for the multiple-choice section. Full exercise = 15 items (Q11–15 are open production).
 
 → Log any service phrase you missed in the [error log](<../../../progress/error-log.md>) as a whole chunk.
 → Directions once you're outside: [E02](<E02 - Directions and Places.md>).

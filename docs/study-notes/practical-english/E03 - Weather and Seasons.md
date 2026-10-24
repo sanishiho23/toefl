@@ -85,6 +85,6 @@ Reading passages on climate/geography, and general vocabulary breadth.
 | 5 | boiling | 11 | out |
 | 6 | rainy season | 12 | in |
 
-**Score:** ___ / 12 · Target ≥ 10.
+**Score:** 11 / 12 · Target ≥ 10.
 
 → Add any missed collocation to [error log](<../../../progress/error-log.md>) as a full phrase, not a single word.
