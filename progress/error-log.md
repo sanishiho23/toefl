@@ -43,6 +43,8 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-19 | E01 ex #2 | `E01-num` big number | Heard *point five million* as 3.4M. | *point five* = .5 → **3,500,000**. |
 | 2026-10-19 | E01 ex #9 | `E01-price` spoken price | Read *twelve fifty* as 1,250. | price *twelve fifty* = **$12.50**; 1,250 = *one thousand two hundred fifty*. |
 | 2026-10-19 | E01 ex #14 | `E01-phone` digit "0" | Wrote the digits "00". | a single 0 in a number is said **"oh"** (or "zero"), never doubled. |
+| 2026-10-24 | E03 ex #6 | `E03` — season collocation | Wrote *rainy seasons* (plural) instead of *rainy season*. | The fixed phrase is *the rainy season* (singular). Learn as a chunk. |
+| 2026-10-24 | E06 ex #8 | `E06` — register (greeting vs leaving) | Chose *good evening* for a leaving scenario. | *Good evening* = greeting; *Good night* = leaving/bed. Match function, not time. |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 

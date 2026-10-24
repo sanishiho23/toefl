@@ -63,7 +63,7 @@ direction, not a prediction.
 |---|---|---:|---:|---:|---:|---:|---|
 | 00 | Oct 5–11 | 3.5 | 3/7 | 92% (S01 ex), 58% (S02 ex) | — | — | S01 11/12, S02 7/12; diagnostic S 10/15, R 12/15 |
 | 01 | Oct 12–18 | | /7 | | | | |
-| 02 | Oct 19–25 | | /7 | | | | E01 warm-up 17/20 (85%) — misses: big number, spoken price, digit "oh" |
+| 02 | Oct 19–25 | | 4/7 | | | | E01 17/20; E03 11/12; E06 9/10; Reading Test 01 pending |
 | 03 | Oct 26–Nov 1 | | /7 | | | | |
 | 04 | Nov 2–8 | | /7 | | | | |
 | 05 | Nov 9–15 | | /7 | | | | |
@@ -114,6 +114,14 @@ Status key: 🔴 < 60% · 🟡 60–79% · 🟢 ≥ 80%
 | AWL words (active recall) | 240 | | |
 | Word families known | 40 | | |
 | Flashcards still wrong | ≤ 50 | | |
+
+### Practical English modules
+
+| Module | Score | Target | Date | Status |
+|---|---:|---:|---|:---|
+| E01 Numbers, Decimals and Quantities | 17/20 (85%) | ≥ 16/20 | 2026-10-19 | 🟢 |
+| E03 Weather and Seasons | 11/12 (92%) | ≥ 10/12 | 2026-10-24 | 🟢 |
+| E06 Travel and Hospitality | 9/10 (90%) | ≥ 9/10 | 2026-10-24 | 🟢 |
 
 ---
 

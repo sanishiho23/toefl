@@ -127,7 +127,7 @@ the reflection. This file is the index and the narrative.
 5. 2026-10-23: [Reading test 01 — 25 questions](<./docs/logs/daily/week-02/23-10-2026.md>)
    (_Status:_ )
 6. 2026-10-24: [Structure maintenance + AWL words 41–80](<./docs/logs/daily/week-02/24-10-2026.md>)
-   (_Status:_ )
+   (_Status:_ Done - E03 Weather 11/12, E06 Travel 9/10; 2 misses logged: rainy season singular, good evening vs good night)
 7. 2026-10-25: [Review and preview](<./docs/logs/daily/week-02/25-10-2026.md>)
    (_Status:_ )
 
