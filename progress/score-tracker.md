@@ -76,16 +76,16 @@ direction, not a prediction.
 
 Fill after Day 13 (Structure Test 01) and again after Day 32 (Mock #2).
 
-| Module | Test 01 % | Mock #2 % | Status |
-|---|---:|---:|---|
-| S01 Subject–verb agreement | 92% | | 🟢 |
-| S02 Verb tenses | | | |
-| S03 Participles / gerunds | | | |
-| S04 Noun clauses | | | |
-| S05 Adjective clauses | | | |
-| S06 Adverb clauses / conditionals | | | |
-| S07 Inversion / comparatives | | | |
-| S08 Word forms / prepositions | | | |
+| Module | Exercise % | Retake % | Test 01 % | Mock #2 % | Status |
+|---|---:|---:|---:|---:|---|
+| S01 Subject–verb agreement | 92% | — | | | 🟢 |
+| S02 Verb tenses | 58% | — | | | 🟡 |
+| S03 Participles / gerunds | 50% | 92% | | | 🟢 |
+| S04 Noun clauses | 58% | 100% | | | 🟢 |
+| S05 Adjective clauses | 75% | 100% | | | 🟢 |
+| S06 Adverb clauses / conditionals | 92% | — | | | 🟢 |
+| S07 Inversion / comparatives | | | | | |
+| S08 Word forms / prepositions | | | | | |
 
 Status key: 🔴 < 60% · 🟡 60–79% · 🟢 ≥ 80%
 
