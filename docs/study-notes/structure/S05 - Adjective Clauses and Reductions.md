@@ -83,32 +83,32 @@ Pattern: `number / some / many / most / none / all / half + of + whom | which`
 
 ---
 
-## Exercise — 12 items, 7 minutes
+## Exercise — Retake (12 items, 7 minutes)
 
-1. The professor ___ lecture we attended is an expert in marine biology.
-   (A) who  (B) which  (C) whose  (D) whom
-2. The samples ___ in 2015 are still being analyzed.
-   (A) collecting  (B) collected  (C) were collected  (D) which collecting
-3. My dissertation, ___ took four years to complete, was finally approved.
-   (A) that  (B) which  (C) what  (D) who
-4. The university ___ she studied is in the Midwest.
-   (A) where  (B) which  (C) that  (D) whose
-5. The researchers, several of ___ were from abroad, spoke three languages.
-   (A) who  (B) which  (C) whom  (D) them
-6. Students ___ wish to apply must submit the form by Friday.
-   (A) which  (B) who  (C) whose  (D) what
-7. The building ___ last year houses the new library.
-   (A) completing  (B) having completed  (C) completed  (D) was completed
-8. That is the museum in ___ the famous manuscript is kept.
-   (A) that  (B) where  (C) which  (D) who
-9. The samples, ___ had been stored at room temperature, were ruined.
+1. The scientist ___ research was published in Nature received an award.
+   (A) who  (B) whom  (C) whose  (D) which
+2. The data, ___ were collected over five years, support the hypothesis.
    (A) that  (B) which  (C) what  (D) they
-10. The reason the experiment failed is ___ the equipment was faulty.
-    (A) because  (B) because of  (C) that  (D) due to that
-11. Anyone ___ interested in the workshop should register online.
-    (A) who  (B) who is  (C) is  (D) which is
-12. The specimens ___ on the table need to be catalogued.
-    (A) laying  (B) lying  (C) laid  (D) lie
+3. The applicants, most of ___ had graduate degrees, were highly qualified.
+   (A) who  (B) which  (C) whom  (D) them
+4. The books ___ from the library must be returned by Friday.
+   (A) borrowing  (B) borrowed  (C) were borrowed  (D) which borrowing
+5. The park ___ we used to play has been turned into a parking lot.
+   (A) which  (B) where  (C) that  (D) whose
+6. The files ___ on the desk belong to the director.
+   (A) laying  (B) lain  (C) lying  (D) laid
+7. That is the hospital at ___ my mother works.
+   (A) where  (B) that  (C) which  (D) who
+8. The volunteers, ___ helped during the flood, were honored by the mayor.
+   (A) that  (B) which  (C) who  (D) whom
+9. The reason he was late is ___ his car broke down.
+   (A) because  (B) why  (C) that  (D) due to
+10. ___ written in pencil will not be accepted.
+    (A) Answers that  (B) Answers which  (C) Answers  (D) Answers are
+11. The town ___ in the 18th century is now a tourist attraction.
+    (A) founding  (B) founded  (C) was founded  (D) having founded
+12. The artist, none of ___ paintings had sold, decided to change styles.
+    (A) who  (B) whom  (C) whose  (D) which
 
 ---
 
@@ -116,19 +116,20 @@ Pattern: `number / some / many / most / none / all / half + of + whom | which`
 
 | # | Ans | Why |
 |---|---|---|
-| 1 | **C** | possession → *whose lecture* |
-| 2 | **B** | reduction of a passive clause → past participle |
-| 3 | **B** | non-restrictive (commas) → *which*, never *that* |
-| 4 | **A** | *she studied* is complete; place needs *where* |
-| 5 | **C** | *several of whom* — people after a preposition |
-| 6 | **B** | *students* = people, subject of *wish* |
-| 7 | **C** | passive reduction → *completed* |
-| 8 | **C** | preposition + *which* (*in which*) |
-| 9 | **B** | non-restrictive → *which* |
-| 10 | **C** | *the reason … is that* |
-| 11 | **B** | full clause needed: *who is interested* |
-| 12 | **B** | *lying* (intransitive, resting) vs *laying* (transitive, placing) |
+| 1 | **C** | possession → *whose research* |
+| 2 | **B** | non-restrictive (commas) → **which**, never *that* |
+| 3 | **C** | preposition + people → **whom** |
+| 4 | **B** | passive reduction → past participle *borrowed* |
+| 5 | **B** | place → **where** |
+| 6 | **C** | intransitive (resting) → **lying** |
+| 7 | **C** | preposition *at* + **which** |
+| 8 | **C** | non-restrictive + people as subject → **who** |
+| 9 | **C** | *the reason … is **that*** |
+| 10 | **A** | restrictive clause → **that** |
+| 11 | **B** | passive reduction → *founded* |
+| 12 | **C** | possession → **whose** paintings |
 
-**Score:** 9 / 12 (75%) · Target ≥ 10. ❌ — Misses: #5 prep+whom, #9 non-restrictive→which, #12 lying vs laying.
+**Previous attempt:** 9 / 12 (75%) ❌
+**Score:** ___ / 12 · Target ≥ 10.
 
 → Log misses in [error log](<../../../progress/error-log.md>).

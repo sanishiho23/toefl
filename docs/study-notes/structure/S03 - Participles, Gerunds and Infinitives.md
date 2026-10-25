@@ -100,32 +100,32 @@ The coach made them ___ extra laps. → run         (base verb, no to)
 
 ---
 
-## Exercise — 12 items, 7 minutes
+## Exercise — Retake (12 items, 7 minutes)
 
-1. The audience found the documentary thoroughly ___ .
-   (A) fascinated  (B) fascinating  (C) fascinate  (D) fascination
-2. She avoided ___ the question directly.
-   (A) answer  (B) to answer  (C) answering  (D) answered
-3. The professor had the manuscripts ___ by a graduate assistant.
-   (A) organize  (B) organizing  (C) organized  (D) to organize
-4. ___ in the 19th century, the building is now a museum.
-   (A) Constructing  (B) Constructed  (C) Having constructing  (D) To construct
-5. They decided ___ the meeting until next week.
-   (A) postponing  (B) postpone  (C) to postpone  (D) postponed
-6. He is looking forward to ___ his family again.
-   (A) see  (B) seeing  (C) saw  (D) be seen
-7. The instructions were too complicated ___ .
-   (A) for following  (B) to follow  (C) following  (D) that we follow
-8. ___ carefully, the experiment can yield reliable results.
-   (A) Doing  (B) If doing  (C) Done  (D) Having done
-9. I clearly remember ___ her at the conference last year.
-   (A) to meet  (B) meeting  (C) meet  (D) to have meet
-10. The dean made the department ___ its budget proposal.
-    (A) revise  (B) to revise  (C) revising  (D) revised
-11. The results were so surprising that no one expected ___ them.
-    (A) see  (B) seeing  (C) to see  (D) saw
-12. ___ finished the report, she turned off the computer and went home.
-    (A) Having  (B) Have  (C) To have  (D) Being
+1. The lecture was so ___ that several students fell asleep.
+   (A) bored  (B) boring  (C) bore  (D) boredom
+2. The manager suggested ___ the conference call to Friday.
+   (A) to move  (B) move  (C) moving  (D) moved
+3. She is used to ___ long hours at the lab.
+   (A) work  (B) working  (C) worked  (D) be working
+4. The teacher let the students ___ early for the holiday.
+   (A) to leave  (B) leaving  (C) left  (D) leave
+5. ___ from recycled materials, the sculpture won first prize.
+   (A) Making  (B) Made  (C) Having making  (D) To make
+6. He denied ___ the confidential document to anyone.
+   (A) to show  (B) showing  (C) show  (D) shown
+7. The students were ___ by the magician's performance.
+   (A) amazing  (B) amazed  (C) amaze  (D) amazement
+8. We arranged ___ the professor after the seminar.
+   (A) meeting  (B) meet  (C) to meet  (D) met
+9. ___ completed the first phase, the team moved on to testing.
+   (A) Have  (B) Been  (C) Having  (D) To have
+10. I don't mind ___ you with the analysis.
+    (A) to help  (B) help  (C) helped  (D) helping
+11. The noise from the construction site made it impossible ___ .
+    (A) concentrating  (B) to concentrate  (C) concentrate  (D) concentrated
+12. The director had the entire script ___ before filming began.
+    (A) rewrite  (B) rewriting  (C) rewritten  (D) to rewrite
 
 ---
 
@@ -133,19 +133,20 @@ The coach made them ___ extra laps. → run         (base verb, no to)
 
 | # | Ans | Why |
 |---|---|---|
-| 1 | **B** | the documentary *causes* the feeling → -ing |
-| 2 | **C** | *avoid* + gerund |
-| 3 | **C** | *have + object + past participle* |
-| 4 | **B** | the building *was* constructed → passive participle |
-| 5 | **C** | *decide* + infinitive |
-| 6 | **B** | *look forward to* is a preposition → gerund |
-| 7 | **B** | *too + adj + to* + base verb |
-| 8 | **C** | the experiment *is done* → passive participle |
-| 9 | **B** | *remember + gerund* = recall a past event |
-| 10 | **A** | *make + object + base verb* |
-| 11 | **C** | *expect* + infinitive |
-| 12 | **A** | perfect participle, action completed before the main clause |
+| 1 | **B** | the lecture *causes* boredom → -ing |
+| 2 | **C** | *suggest* + gerund |
+| 3 | **B** | *be used to* is a preposition → gerund |
+| 4 | **D** | *let + object + base verb* |
+| 5 | **B** | the sculpture *was made* → passive participle |
+| 6 | **B** | *deny* + gerund |
+| 7 | **B** | the students *feel* the emotion → -ed |
+| 8 | **C** | *arrange* + infinitive |
+| 9 | **C** | perfect participle → *Having completed* |
+| 10 | **D** | *mind* + gerund |
+| 11 | **B** | *impossible + to* + base verb |
+| 12 | **C** | *have + object + past participle* (passive causative) |
 
-**Score:** 6 / 12 (50%) · Target ≥ 10. ❌ — Misses: #1 -ed/-ing, #2 avoid+gerund, #6 look forward to+gerund, #9 remember+gerund, #10 make+base verb, #12 having+past participle.
+**Previous attempt:** 6 / 12 (50%) ❌
+**Score:** ___ / 12 · Target ≥ 10.
 
 → Log misses in [error log](<../../../progress/error-log.md>).

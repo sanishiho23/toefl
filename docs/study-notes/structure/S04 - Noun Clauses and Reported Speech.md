@@ -105,33 +105,33 @@ ___ how difficult it is, she never gives up.            → No matter
 
 ---
 
-## Exercise — 12 items, 7 minutes
+## Exercise — Retake (12 items, 7 minutes)
 
-1. I am not sure ___ the results can be reproduced.
-   (A) that  (B) what  (C) whether  (D) which
-2. The supervisor asked the assistant ___ the equipment.
-   (A) calibrate  (B) calibrating  (C) to calibrate  (D) calibrated
-3. It is essential that every student ___ the safety rules.
-   (A) follows  (B) follow  (C) followed  (D) will follow
-4. ___ she said at the meeting was widely reported.
-   (A) That  (B) What  (C) Whether  (D) Which
-5. Could you tell me where ___ ?
-   (A) is the registrar's office  (B) the registrar's office is
-   (C) the registrar's office  (D) does the registrar's office
-6. The committee recommended that the deadline ___ extended.
+1. The doctor advised the patient ___ more water daily.
+   (A) drink  (B) drinking  (C) to drink  (D) drank
+2. It is important that the report ___ submitted on time.
    (A) is  (B) was  (C) be  (D) will be
-7. She asked me whether I ___ the report yet.
-   (A) finish  (B) finished  (C) had finished  (D) have finished
-8. The professor insisted that the students ___ their own data.
-   (A) collect  (B) collects  (C) collected  (D) collecting
-9. ___ the proposal will be accepted remains uncertain.
-   (A) That  (B) What  (C) Whether  (D) If
-10. It depends on ___ we can secure additional funding.
-    (A) if  (B) whether  (C) that  (D) what
-11. He told us that he ___ the following week.
-    (A) will return  (B) would return  (C) returns  (D) is returning
-12. The researchers were unable to determine ___ caused the anomaly.
-    (A) that  (B) whether  (C) what  (D) which one
+3. She said that she ___ the assignment the previous night.
+   (A) finishes  (B) finished  (C) had finished  (D) has finished
+4. Do you know when ___ ?
+   (A) does the library close  (B) the library closes
+   (C) closes the library  (D) the library does close
+5. The director demanded that every employee ___ the new policy.
+   (A) reads  (B) read  (C) will read  (D) is reading
+6. He mentioned that he ___ to London the following month.
+   (A) will travel  (B) travels  (C) would travel  (D) is traveling
+7. ___ surprised everyone was that the team finished ahead of schedule.
+   (A) That  (B) What  (C) Whether  (D) It
+8. The success of the project depends on ___ the budget is approved.
+   (A) if  (B) that  (C) whether  (D) what
+9. The teacher told the class ___ their textbooks to page 50.
+   (A) open  (B) opening  (C) to open  (D) opened
+10. ___ caused the power outage is still under investigation.
+    (A) That  (B) Whether  (C) What  (D) If
+11. The witness claimed that he ___ nothing unusual that evening.
+    (A) sees  (B) has seen  (C) had seen  (D) will see
+12. Nobody knows ___ the conference will be held next year.
+    (A) that  (B) what  (C) whether  (D) if
 
 ---
 
@@ -139,19 +139,20 @@ ___ how difficult it is, she never gives up.            → No matter
 
 | # | Ans | Why |
 |---|---|---|
-| 1 | **C** | uncertainty after *not sure* → whether |
-| 2 | **C** | *ask + object + to* + base verb |
-| 3 | **B** | *it is essential that* + base verb |
-| 4 | **B** | *what* = the thing that she said |
-| 5 | **B** | embedded question → subject + verb order |
-| 6 | **C** | subjunctive after *recommended* |
-| 7 | **C** | reported speech: past → past perfect |
-| 8 | **A** | subjunctive after *insisted* |
-| 9 | **C** | *whether* clause as subject (*if* can't start a subject clause) |
-| 10 | **B** | after a preposition → *whether*, not *if* |
-| 11 | **B** | *will* → *would* in reported speech |
-| 12 | **C** | clause needs a subject → *what* |
+| 1 | **C** | *advise + object + to* + base verb |
+| 2 | **C** | *it is important that* → subjunctive **be** |
+| 3 | **C** | reported speech: past context → **had finished** |
+| 4 | **B** | embedded question → subject + verb order |
+| 5 | **B** | subjunctive after *demanded* → base verb |
+| 6 | **C** | *will* → **would** in reported speech |
+| 7 | **B** | *what surprised everyone* = the thing that surprised |
+| 8 | **C** | after preposition *on* → **whether**, not *if* |
+| 9 | **C** | *tell + object + to* + base verb |
+| 10 | **C** | clause needs a subject → **what** |
+| 11 | **C** | reported speech: past → **had seen** |
+| 12 | **C** | subject clause → **whether** (*if* can't start a subject clause; here after *knows* both work, but C is safer on the ITP) |
 
-**Score:** 7 / 12 (58%) · Target ≥ 10. ❌ — Misses: #2 ask+to-inf, #6 subjunctive (be), #7 reported past perfect, #11 reported will→would, #12 what as subject.
+**Previous attempt:** 7 / 12 (58%) ❌
+**Score:** ___ / 12 · Target ≥ 10.
 
 → Log misses in [error log](<../../../progress/error-log.md>).
