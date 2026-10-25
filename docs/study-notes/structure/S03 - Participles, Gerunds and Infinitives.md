@@ -147,6 +147,6 @@ The coach made them ___ extra laps. → run         (base verb, no to)
 | 12 | **C** | *have + object + past participle* (passive causative) |
 
 **Previous attempt:** 6 / 12 (50%) ❌
-**Score:** ___ / 12 · Target ≥ 10.
+**Score:** 11 / 12 (92%) · Target ≥ 10. ✅ — Miss: #10 *mind* + gerund (chose *helped* instead of *helping*).
 
 → Log misses in [error log](<../../../progress/error-log.md>).

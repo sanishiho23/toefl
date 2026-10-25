@@ -67,6 +67,7 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-25 | S05 ex #9 | `S05-comma` restrictive | Chose *that* (non-restrictive). | Commas = non-restrictive → **which**, never *that*. |
 | 2026-10-25 | S05 ex #12 | `S05` lying/laying | Chose *laid*. | Intransitive (resting on table) → **lying**. *Laying* = placing something. |
 | 2026-10-25 | S06 ex #5 | `S06-cond` 3rd inversion | Chose *If* (but no finite verb follows). | Third conditional inversion: **Had** I known (= If I had known). |
+| 2026-10-25 | S03 retake #10 | `S03-ger` mind+gerund | Chose *helped* (past participle). | *mind* + **gerund** → *don't mind **helping***. |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 

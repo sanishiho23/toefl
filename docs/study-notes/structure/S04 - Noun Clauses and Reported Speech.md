@@ -153,6 +153,6 @@ ___ how difficult it is, she never gives up.            → No matter
 | 12 | **C** | subject clause → **whether** (*if* can't start a subject clause; here after *knows* both work, but C is safer on the ITP) |
 
 **Previous attempt:** 7 / 12 (58%) ❌
-**Score:** ___ / 12 · Target ≥ 10.
+**Score:** 12 / 12 (100%) · Target ≥ 10. ✅
 
 → Log misses in [error log](<../../../progress/error-log.md>).
