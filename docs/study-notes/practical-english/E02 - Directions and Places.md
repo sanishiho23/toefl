@@ -104,7 +104,7 @@ See the fixed-preposition table in [S08](<../structure/S08 - Word Forms, Article
 | 7 | straight / left | 15 | around |
 | 8 | at | | |
 
-**Score:** ___ / 15 · Target ≥ 12.
+**Score:** 15 / 15 (100%) · Target ≥ 12. ✅
 
 → Log place-preposition misses in the [error log](<../../../progress/error-log.md>).
 → These same prepositions are drilled formally in [S08](<../structure/S08 - Word Forms, Articles and Prepositions.md>).

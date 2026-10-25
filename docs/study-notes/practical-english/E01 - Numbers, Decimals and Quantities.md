@@ -135,7 +135,7 @@ and ends in a clear *n*, it is *-teen*. When the first syllable is stressed, it 
 | 9 | $12.50 | 19 | *nineteen ninety-nine* |
 | 10 | July, 4th | 20 | *two thirds* (plural) |
 
-**Score:** ___ / 20 · Target ≥ 16.
+**Score:** 17 / 20 (85%) · Target ≥ 16. ✅
 
 → Any -teen/-ty miss goes straight into [error log](<../../../progress/error-log.md>).
 → Related: numbers appear in every [L03 lecture note set](<../listening/L03 - Parts B and C Note-taking.md>).

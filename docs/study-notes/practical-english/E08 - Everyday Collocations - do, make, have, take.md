@@ -111,7 +111,7 @@ several English ones.
 | 9 | had | 19 | **take** a photo |
 | 10 | do | 20 | **making** progress |
 
-**Score:** ___ / 20 · Target ≥ 16.
+**Score:** 16 / 20 (80%) · Target ≥ 16. ✅ · misses #7, #14, #18, #20; tense slips #5 (*made*), #9 (*had*).
 
 → Log every miss in the [error log](<../../../progress/error-log.md>) as the **full pair** (verb + noun), not the single verb.
 → Related fixed pairs (preposition collocations): [S08 §3](<../structure/S08 - Word Forms, Articles and Prepositions.md>).

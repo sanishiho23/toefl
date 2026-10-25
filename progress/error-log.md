@@ -47,6 +47,11 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-24 | E06 ex #8 | `E06` — register (greeting vs leaving) | Chose *good evening* for a leaving scenario. | *Good evening* = greeting; *Good night* = leaving/bed. Match function, not time. |
 | 2026-10-24 | E04 ex #8 | `E04` — idiom spelling | Wrote *ballpack* instead of *ballpark*. | *Ballpark figure* = rough estimate. Spell it like the sports field: **ballpark**. |
 | 2026-10-24 | E04 ex #9 | `E04` — accounting idiom | Chose *white* instead of *black*. | *In the black* = profitable (positive numbers written in black ink). *In the red* = losing. |
+| 2026-10-25 | E07 ex #7 | `E07-phone` base verb | Wrote *does Friday working*. | after *does/do* use the **base verb** → *does Friday **work*** for you? |
+| 2026-10-25 | E08 ex #7 | `E08-coll` make/have | Chose *have a reservation*. | **make** a reservation (also *make* an appointment / a booking). |
+| 2026-10-25 | E08 ex #14 | `E08-coll` do | Left the verb blank. | *do my homework* → **do**. |
+| 2026-10-25 | E08 ex #18 | `E08-coll` make | Didn't correct to *make*. | *I must **make** a decision* (never *do a decision*). |
+| 2026-10-25 | E08 ex #20 | `E08-coll` + uncount | Wrote *making **a** progress*. | *progress* is uncountable → *making progress* (no "a"). |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 
