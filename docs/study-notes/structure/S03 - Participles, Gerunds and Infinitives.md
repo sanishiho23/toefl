@@ -146,6 +146,6 @@ The coach made them ___ extra laps. → run         (base verb, no to)
 | 11 | **C** | *expect* + infinitive |
 | 12 | **A** | perfect participle, action completed before the main clause |
 
-**Score:** ___ / 12 · Target ≥ 10.
+**Score:** 6 / 12 (50%) · Target ≥ 10. ❌ — Misses: #1 -ed/-ing, #2 avoid+gerund, #6 look forward to+gerund, #9 remember+gerund, #10 make+base verb, #12 having+past participle.
 
 → Log misses in [error log](<../../../progress/error-log.md>).

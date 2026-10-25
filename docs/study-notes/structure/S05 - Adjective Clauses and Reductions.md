@@ -129,6 +129,6 @@ Pattern: `number / some / many / most / none / all / half + of + whom | which`
 | 11 | **B** | full clause needed: *who is interested* |
 | 12 | **B** | *lying* (intransitive, resting) vs *laying* (transitive, placing) |
 
-**Score:** ___ / 12 · Target ≥ 10.
+**Score:** 9 / 12 (75%) · Target ≥ 10. ❌ — Misses: #5 prep+whom, #9 non-restrictive→which, #12 lying vs laying.
 
 → Log misses in [error log](<../../../progress/error-log.md>).

@@ -52,6 +52,21 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-25 | E08 ex #14 | `E08-coll` do | Left the verb blank. | *do my homework* → **do**. |
 | 2026-10-25 | E08 ex #18 | `E08-coll` make | Didn't correct to *make*. | *I must **make** a decision* (never *do a decision*). |
 | 2026-10-25 | E08 ex #20 | `E08-coll` + uncount | Wrote *making **a** progress*. | *progress* is uncountable → *making progress* (no "a"). |
+| 2026-10-25 | S03 ex #1 | `S03` -ed/-ing | Chose *fascinated* (the documentary causes the feeling). | Object causes feeling → **-ing** (*fascinating*). -ed = the person feeling it. |
+| 2026-10-25 | S03 ex #2 | `S03-ger` verb+gerund | Chose *to answer*. | *avoid* takes a **gerund** → *avoid answering*. |
+| 2026-10-25 | S03 ex #6 | `S03-ger` prep+gerund | Chose *see* (base). | *look forward **to*** is a preposition → gerund: *to **seeing***. |
+| 2026-10-25 | S03 ex #9 | `S03-ger` remember+gerund | Chose *meet* (base). | *remember* + gerund = recall past event → *remember **meeting***. |
+| 2026-10-25 | S03 ex #10 | `S03-caus` make+base | Chose *revised* (past participle). | *make + object + **base verb*** → *made the department **revise***. |
+| 2026-10-25 | S03 ex #12 | `S03` perfect participle | Chose *Have*. | Perfect participle = **Having** + past participle → *Having finished*. |
+| 2026-10-25 | S04 ex #2 | `S04` ask+to-inf | Chose *calibrated*. | *ask + object + **to** + base verb* → *asked the assistant **to calibrate***. |
+| 2026-10-25 | S04 ex #6 | `S04-subj` subjunctive | Chose *will be*. | After *recommended that* → subjunctive **be** (no *will*). |
+| 2026-10-25 | S04 ex #7 | `S04-report` past perfect | Chose *have finished*. | Reported speech: past → **had finished** (backshift). |
+| 2026-10-25 | S04 ex #11 | `S04-report` will→would | Chose *will return*. | Reported speech: *will* → **would**. |
+| 2026-10-25 | S04 ex #12 | `S04` what vs which one | Chose *which one*. | Clause needs a subject referring to a thing → **what** caused the anomaly. |
+| 2026-10-25 | S05 ex #5 | `S05` prep+whom | Chose *them* (pronoun). | After a preposition, people → **whom**: *several of whom*. |
+| 2026-10-25 | S05 ex #9 | `S05-comma` restrictive | Chose *that* (non-restrictive). | Commas = non-restrictive → **which**, never *that*. |
+| 2026-10-25 | S05 ex #12 | `S05` lying/laying | Chose *laid*. | Intransitive (resting on table) → **lying**. *Laying* = placing something. |
+| 2026-10-25 | S06 ex #5 | `S06-cond` 3rd inversion | Chose *If* (but no finite verb follows). | Third conditional inversion: **Had** I known (= If I had known). |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 

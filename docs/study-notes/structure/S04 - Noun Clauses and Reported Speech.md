@@ -152,6 +152,6 @@ ___ how difficult it is, she never gives up.            → No matter
 | 11 | **B** | *will* → *would* in reported speech |
 | 12 | **C** | clause needs a subject → *what* |
 
-**Score:** ___ / 12 · Target ≥ 10.
+**Score:** 7 / 12 (58%) · Target ≥ 10. ❌ — Misses: #2 ask+to-inf, #6 subjunctive (be), #7 reported past perfect, #11 reported will→would, #12 what as subject.
 
 → Log misses in [error log](<../../../progress/error-log.md>).

@@ -134,6 +134,6 @@ so + many/much/few/little + noun → so many problems that …
 | 11 | **C** | noun phrase → *despite* |
 | 12 | **C** | third conditional → past perfect |
 
-**Score:** ___ / 12 · Target ≥ 10.
+**Score:** 11 / 12 (92%) · Target ≥ 10. ✅ — Miss: #5 third-conditional inversion (Had I known, not If I known).
 
 → Log misses in [error log](<../../../progress/error-log.md>).
