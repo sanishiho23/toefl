@@ -179,7 +179,7 @@ Budget: **11 minutes per passage including questions.** Time yourself. Answers a
 | 9 | **B** | 19 | **A** |
 | 10 | **C** | 20 | **B** |
 
-**Score:** ___ / 20 · Target ≥ 15.
+**Score:** 16 / 20 (80%) · Target ≥ 15. ✅ — Passage 1: 7/10 (missed #3 NOT/EXCEPT, #7 vocab *rival*, #8 tone). Passage 2: 9/10 (missed #12 vocab *canonical*). Taken 2026-11-01.
 
 ### Explanations worth reading
 

@@ -68,6 +68,10 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-10-25 | S05 ex #12 | `S05` lying/laying | Chose *laid*. | Intransitive (resting on table) → **lying**. *Laying* = placing something. |
 | 2026-10-25 | S06 ex #5 | `S06-cond` 3rd inversion | Chose *If* (but no finite verb follows). | Third conditional inversion: **Had** I known (= If I had known). |
 | 2026-10-25 | S03 retake #10 | `S03-ger` mind+gerund | Chose *helped* (past participle). | *mind* + **gerund** → *don't mind **helping***. |
+| 2026-11-01 | R03 #3 | `R-except` | Chose *A* (slow release of heat), which IS a stated cause; the EXCEPT answer was *evapotranspiration*, which is absent in cities. | On NOT/EXCEPT, mark each option T/F against the text; the one false statement is the answer. |
+| 2026-11-01 | R03 #7 | `R-vocab` | Chose *interrupt* for **rival**; didn't test options in the sentence. | *rival* = **equal/match** here. Substitute every option into the sentence before choosing. |
+| 2026-11-01 | R03 #8 | `R-tone` | Chose *strongly critical of reflective coatings*; the text calls them "cheapest" and "most frequently adopted". | Extreme options are traps; academic tone is **analytical/neutral** → B. |
+| 2026-11-01 | R03 #12 | `R-vocab` | Chose *seasonal* for **canonical**; used a nearby fact, not the definition. | The dash gives the meaning: *canonical hours — prayer times* → **relating to church practice**. |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 

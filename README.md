@@ -51,7 +51,8 @@ Reading and vocabulary
 
 - [ ] [R01 — The 8 question types](<./docs/study-notes/reading/R01 - Question Types.md>)
 - [ ] [R02 — Vocabulary in context](<./docs/study-notes/reading/R02 - Vocabulary in Context.md>)
-- [ ] [R03 — Practice passages](<./docs/study-notes/reading/R03 - Practice Passages.md>)
+- [x] [R03 — Practice passages](<./docs/study-notes/reading/R03 - Practice Passages.md>) — 16/20
+- [ ] [R04 — More practice passages](<./docs/study-notes/reading/R04 - More Practice Passages.md>)
 - [ ] [Academic word list (240 words)](<./docs/study-notes/vocabulary/Academic Word List.md>)
 - [ ] [Word families](<./docs/study-notes/vocabulary/Word Families.md>)
 
