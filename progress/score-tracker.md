@@ -64,7 +64,7 @@ direction, not a prediction.
 | 00 | Oct 5–11 | 3.5 | 3/7 | 92% (S01 ex), 58% (S02 ex) | — | — | S01 11/12, S02 7/12; diagnostic S 10/15, R 12/15 |
 | 01 | Oct 12–18 | | /7 | | | | |
 | 02 | Oct 19–25 | | 4/7 | | | | E-series: E01 17/20, E02 15/15, E03 11/12, E04 15/15, E06 9/10, E07 14/15, E08 16/20. S-series: S03 6→11/12, S04 7→12/12, S05 9→12/12, S06 11/12; Reading Test 01 pending |
-| 03 | Oct 26–Nov 1 | | /7 | | 80% (R03) | | R03 16/20 (P1 7/10, P2 9/10); misses: NOT/EXCEPT, 2 vocab, tone |
+| 03 | Oct 26–Nov 1 | | /7 | | 85% (R03+R04) | | R03 16/20, R04 18/20; misses: NOT/EXCEPT, tone, 4× vocab |
 | 04 | Nov 2–8 | | /7 | | | | |
 | 05 | Nov 9–15 | | /7 | | | | |
 

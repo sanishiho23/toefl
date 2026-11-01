@@ -72,6 +72,8 @@ A mistake you can't name is a mistake you'll repeat.
 | 2026-11-01 | R03 #7 | `R-vocab` | Chose *interrupt* for **rival**; didn't test options in the sentence. | *rival* = **equal/match** here. Substitute every option into the sentence before choosing. |
 | 2026-11-01 | R03 #8 | `R-tone` | Chose *strongly critical of reflective coatings*; the text calls them "cheapest" and "most frequently adopted". | Extreme options are traps; academic tone is **analytical/neutral** → B. |
 | 2026-11-01 | R03 #12 | `R-vocab` | Chose *seasonal* for **canonical**; used a nearby fact, not the definition. | The dash gives the meaning: *canonical hours — prayer times* → **relating to church practice**. |
+| 2026-11-01 | R04 #32 | `R-vocab` | Chose *fast* for **idle**; it is nearly the opposite. Did not use the contrast clue. | "Anything **but** idle" in a passage about the brain being active → *idle* = **inactive**. Treat *but / anything but* as a contrast clue. |
+| 2026-11-01 | R04 #34 | `R-vocab` | Chose *surprising* for **robust**. | *One of the most robust findings … consistently perform better* → **strong and reliable**. Check the tone, then substitute each option. |
 
 *(Add rows as you go — don't delete this template block until you have 10 rows of your own.)*
 

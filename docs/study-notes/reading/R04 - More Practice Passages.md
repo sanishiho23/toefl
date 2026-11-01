@@ -162,7 +162,7 @@ Built to hit the types you missed in R03: **NOT/EXCEPT, vocabulary in context, t
 | 29 | **A** | 39 | **A** |
 | 30 | **D** | 40 | **D** |
 
-**Score:** ___ / 20 · Target ≥ 16.
+**Score:** 18 / 20 (90%) · Target ≥ 16. ✅ — Passage 3: 10/10. Passage 4: 8/10 (missed #32 *idle*, #34 *robust*; both vocabulary). Taken 2026-11-01.
 
 ### Explanations worth reading
 
