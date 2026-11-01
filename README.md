@@ -53,6 +53,7 @@ Reading and vocabulary
 - [ ] [R02 — Vocabulary in context](<./docs/study-notes/reading/R02 - Vocabulary in Context.md>)
 - [x] [R03 — Practice passages](<./docs/study-notes/reading/R03 - Practice Passages.md>) — 16/20
 - [ ] [R04 — More practice passages](<./docs/study-notes/reading/R04 - More Practice Passages.md>)
+- [ ] [R05 — Reading tips and tricks](<./docs/study-notes/reading/R05 - Reading Tips and Tricks.md>)
 - [ ] [Academic word list (240 words)](<./docs/study-notes/vocabulary/Academic Word List.md>)
 - [ ] [Word families](<./docs/study-notes/vocabulary/Word Families.md>)
 
