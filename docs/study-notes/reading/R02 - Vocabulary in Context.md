@@ -98,6 +98,38 @@ See the full table in [S08](<../structure/S08 - Word Forms, Articles and Preposi
 
 ---
 
+## Part 5b — When you don't know the word: the rescue sequence
+
+Work through these in order and stop as soon as you can answer.
+
+| Step | Do this | Example |
+|---|---|---|
+| 1 | **Find a clue** in the sentence (see Part 2): dash, *or*, contrast, example, cause–effect. | *canonical hours — prayer times announced by bells* → the dash defines it |
+| 2 | **Tone check:** is the word positive or negative? Cross out options with the opposite tone. | *The mayor's **audacious** plan impressed everyone* → positive |
+| 3 | **Part of speech:** noun, verb, adjective? Cross out options that cannot fit the grammar. | *They **rival** the solar input* → verb, so a noun option is out |
+| 4 | **Substitute** each remaining option into the sentence (Part 1). The right one keeps the meaning and sounds natural. | *waste energy can **equal** the solar input* ✔ / *can **interrupt** it* ✘ |
+| 5 | **Word parts:** prefix, root, suffix (Parts 3–5). | *dis-agree* = not agree |
+| 6 | **Guess.** There is no penalty for a wrong answer, so never leave a blank. | |
+
+### Trap rules
+
+- **The common meaning is often the trap.** *Rival* usually means "competitor", but in R03 it meant "be comparable to" (**equal**). Always trust the sentence over your memory.
+- **Do not pick an option that copies a word from the sentence.** It looks safe and is usually wrong.
+- **Do not use a nearby fact instead of the definition.** In R03 *canonical hours* was missed because *seasonal* appeared in the same paragraph. The answer comes from the words right next to the target (*prayer times*), not from the rest of the paragraph.
+- **Two options left?** Choose the one that fits the *sentence*, not the one you have seen most often.
+
+### Worked example from your R03 misses
+
+> *…waste energy from vehicles, air-conditioning units and industrial processes, which in dense
+> districts can **rival** the solar input.*
+
+1. Clue: the sentence compares two energy sources, so the meaning is "be comparable to".
+2. Tone: neutral. Part of speech: verb.
+3. Substitute: *can equal the solar input* ✔, *can interrupt the solar input* ✘ (nonsense).
+4. Answer: **equal**.
+
+---
+
 ## Part 6 — The 20-minute daily routine
 
 | Min | Task |
